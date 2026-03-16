@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question_tagalog": "Ano ang unang bagay na napansin mo sa akin nang una tayong nagkita?",
+    "question_english": "What was the first thing you noticed about me when we first met?",
+    "quote_tagalog": "\"Ang pagmamahal ay hindi naghahanap ng perpekto, naghahanap ito ng tunay.\"",
+    "quote_english": "\"Love doesn't seek perfection, it seeks authenticity.\""
+  },
+  {
+    "id": 2,
+    "question_tagalog": "Paano mo malalaman na iniibig ka ng isang tao?",
+    "question_english": "How do you know when someone truly loves you?",
+    "quote_tagalog": "\"Ang tunay na pagmamahal ay nakikita sa mga kilos, hindi lamang sa mga salita.\"",
+    "quote_english": "\"True love is seen in actions, not just in words.\""
+  },
+  {
+    "id": 3,
+    "question_tagalog": "Anong pangarap ang gusto mong makamit natin bilang mag-asawa o magkasama?",
+    "question_english": "What dream do you most want us to achieve together as a couple?",
+    "quote_tagalog": "\"Ang mga pangarap ay mas maganda kapag pinangarap ng dalawa.\"",
+    "quote_english": "\"Dreams are more beautiful when dreamed together by two.\""
+  },
+  {
+    "id": 4,
+    "question_tagalog": "Kailan ka pinaka-masaya sa ating relasyon?",
+    "question_english": "When do you feel happiest in our relationship?",
+    "quote_tagalog": "\"Ang kaligayahan ay hindi isang destinasyon, ito ay isang paraan ng paglalakbay kasama ang tamang tao.\"",
+    "quote_english": "\"Happiness is not a destination, it's a way of traveling with the right person.\""
+  },
+  {
+    "id": 5,
+    "question_tagalog": "Ano ang isang bagay na nais mong malaman mo tungkol sa akin bago pa tayo naging kami?",
+    "question_english": "What is one thing you wish you'd known about me before we became us?",
+    "quote_tagalog": "\"Ang bawat bahagi ng iyong kwento ay nagdala sa iyo sa akin, at mahal ko ang bawat kabanata.\"",
+    "quote_english": "\"Every part of your story led you to me, and I love every chapter.\""
+  },
+  {
+    "id": 6,
+    "question_tagalog": "Ano ang pinakamagandang alaala mo sa atin?",
+    "question_english": "What is your most treasured memory of us?",
+    "quote_tagalog": "\"Ang mga magagandang sandali ay nagiging mga alaala na pinananatili ng puso magpakailanman.\"",
+    "quote_english": "\"Beautiful moments become memories the heart keeps forever.\""
+  },
+  {
+    "id": 7,
+    "question_tagalog": "Paano mo nais na ipakita ko ang aking pagmamahal sa iyo araw-araw?",
+    "question_english": "How do you most want me to show my love for you every day?",
+    "quote_tagalog": "\"Ang pagmamahal ay isang gawi, isang kasanayan, isang desisyon na ginagawa mo araw-araw.\"",
+    "quote_english": "\"Love is a habit, a practice, a decision you make every day.\""
+  },
+  {
+    "id": 8,
+    "question_tagalog": "Ano ang kahinaan mo na gusto mong tanggapin ko nang buong puso?",
+    "question_english": "What vulnerability of yours do you most want me to fully accept?",
+    "quote_tagalog": "\"Ang tapang ay hindi kawalan ng takot, ang tapang ay ang matahimik na sabihin 'kaya kita' kahit na nanginginig ka.\"",
+    "quote_english": "\"Courage is not the absence of fear, it's quietly saying 'I've got you' even while trembling.\""
+  },
+  {
+    "id": 9,
+    "question_tagalog": "Sa iyong palagay, ano ang pinagmumulan ng lakas ng ating relasyon?",
+    "question_english": "In your opinion, what is the greatest source of strength in our relationship?",
+    "quote_tagalog": "\"Ang pinakamatibay na ugnayang may pundasyon ng tiwala, katapatan, at pag-unawa.\"",
+    "quote_english": "\"The strongest bonds are built on trust, loyalty, and understanding.\""
+  },
+  {
+    "id": 10,
+    "question_tagalog": "Kung maaari kang magsulat ng liham sa iyong sarili bago kami nagkakilala, ano ang isusulat mo?",
+    "question_english": "If you could write a letter to yourself before we met, what would it say?",
+    "quote_tagalog": "\"Ang hinaharap ay naghihintay ng tahimik at puno ng pag-asa.\"",
+    "quote_english": "\"The future waits quietly and full of hope.\""
+  },
+  {
+    "id": 11,
+    "question_tagalog": "Anong bagay ang nais mong gawin ko higit pa para sa iyo?",
+    "question_english": "What is one thing you wish I did more of for you?",
+    "quote_tagalog": "\"Ang pakikinig nang may buong puso ay isa sa mga pinakamagandang bagay na maaari mong ibigay sa isang mahal mo.\"",
+    "quote_english": "\"Listening with your whole heart is one of the most beautiful gifts you can give someone you love.\""
+  },
+  {
+    "id": 12,
+    "question_tagalog": "Ano ang pinakamalaking pagbabago na ginawa sa iyo ng ating relasyon?",
+    "question_english": "What is the biggest change our relationship has made in you?",
+    "quote_tagalog": "\"Ang mga taong mahal mo ang nagbibigay sa iyo ng lakas para maging mas magandang bersyon ng iyong sarili.\"",
+    "quote_english": "\"The people you love give you the strength to become a better version of yourself.\""
+  },
+  {
+    "id": 13,
+    "question_tagalog": "Anong taong nasa aking buhay ang nais mong makilala nang mas malalim?",
+    "question_english": "Who in my life do you most want to get to know better?",
+    "quote_tagalog": "\"Ang pag-unawa sa mundo ng iyong mahal sa buhay ay isang patuloy na paglalakbay ng pagmamahal.\"",
+    "quote_english": "\"Understanding your partner's world is a continuous journey of love.\""
+  },
+  {
+    "id": 14,
+    "question_tagalog": "Ano ang mga bagay na hindi kita hihintuin na gawin kahit nakakainis ito minsan?",
+    "question_english": "What are the things I do that you'd never want me to stop, even if they're annoying sometimes?",
+    "quote_tagalog": "\"Ang mga imperfeksyon ay ang mga palatandaan ng isang tunay na tao na nagmamahal nang tunay.\"",
+    "quote_english": "\"Imperfections are signs of a real person loving genuinely.\""
+  },
+  {
+    "id": 15,
+    "question_tagalog": "Kung ikukuha kita ng isang regalo na walang halaga, ano ang higit na pinapahalagahan mo?",
+    "question_english": "If you could give me one priceless gift, what would you value most?",
+    "quote_tagalog": "\"Ang pinakamahalagang mga bagay sa buhay ay hindi mga bagay – sila ay mga tao at mga sandali.\"",
+    "quote_english": "\"The most important things in life are not things – they are people and moments.\""
+  },
+  {
+    "id": 16,
+    "question_tagalog": "Paano mo nais na malutas natin ang mga alitan sa hinaharap?",
+    "question_english": "How would you want us to resolve conflicts in the future?",
+    "quote_tagalog": "\"Hindi ang hindi pagtatalo ang senyales ng malusog na relasyon, kundi ang pagiging mabuti sa isa't isa pagkatapos ng away.\"",
+    "quote_english": "\"The sign of a healthy relationship is not never fighting, but being kind to each other after.\""
+  },
+  {
+    "id": 17,
+    "question_tagalog": "Ano ang isang bagay na nais mong maranasan natin na hindi pa natin nagagawa?",
+    "question_english": "What is something you want us to experience together that we haven't yet?",
+    "quote_tagalog": "\"Ang pinakamahusay na mga karanasan ay ang mga ginagawa natin kasama ang mga taong pinaka-minamahal natin.\"",
+    "quote_english": "\"The best experiences are the ones we make with the people we love most.\""
+  },
+  {
+    "id": 18,
+    "question_tagalog": "Ano ang pinaka-natatakot mong mangyari sa ating relasyon?",
+    "question_english": "What is your greatest fear when it comes to our relationship?",
+    "quote_tagalog": "\"Ang takot ay natural, ngunit ang pagpili na manatili ay ang pinakamagandang uri ng lakas.\"",
+    "quote_english": "\"Fear is natural, but the choice to stay is the most beautiful kind of strength.\""
+  },
+  {
+    "id": 19,
+    "question_tagalog": "Ano ang isang bagay tungkol sa iyong nakaraan na nais mong maunawaan ko nang higit?",
+    "question_english": "What is one thing about your past you wish I understood better?",
+    "quote_tagalog": "\"Ang pag-unawa sa nakaraan ng isang tao ay pagtanggap ng buong buhay nila.\"",
+    "quote_english": "\"Understanding someone's past is accepting their whole life.\""
+  },
+  {
+    "id": 20,
+    "question_tagalog": "Kung ang aming relasyon ay isang kanta, anong kanta ito at bakit?",
+    "question_english": "If our relationship were a song, what would it be and why?",
+    "quote_tagalog": "\"Ang pagmamahal ay may sariling melodiya na naririnig lamang ng dalawang nagmamahalan.\"",
+    "quote_english": "\"Love has its own melody that only two people in love can truly hear.\""
+  },
+  {
+    "id": 21,
+    "question_tagalog": "Ano ang isang bagay na ginagawa ko na nang hindi ko alam ay nagpapasaya sa iyo?",
+    "question_english": "What is something I do unknowingly that makes you happy?",
+    "quote_tagalog": "\"Ang mga pinakamaliit na kilos ng pagmamahal ay madalas ang pinaka-mahalaga.\"",
+    "quote_english": "\"The smallest acts of love are often the most meaningful.\""
+  },
+  {
+    "id": 22,
+    "question_tagalog": "Sa anong paraan nais mong palaguin natin ang ating relasyon ngayong taon?",
+    "question_english": "In what way do you want us to grow our relationship this year?",
+    "quote_tagalog": "\"Ang pagmamahal ay hindi isang estado, ito ay isang patuloy na pagkilos ng pagpili at pagpapalago.\"",
+    "quote_english": "\"Love is not a state, it's a continuous act of choosing and growing.\""
+  },
+  {
+    "id": 23,
+    "question_tagalog": "Anong bagay na ginagawa ko ang nagpaparamdam sa iyo na pinapahalagahan kita?",
+    "question_english": "What thing I do makes you feel most valued?",
+    "quote_tagalog": "\"Ang pakiramdam na pinapahalagahan ay isa sa pinakadakilang regalo ng pagmamahal.\"",
+    "quote_english": "\"Feeling valued is one of the greatest gifts of love.\""
+  },
+  {
+    "id": 24,
+    "question_tagalog": "Kung mamumuhay tayo sa ibang lugar, saan mo nais mamuhay at bakit?",
+    "question_english": "If we could live anywhere, where would you want us to live and why?",
+    "quote_tagalog": "\"Ang tahanan ay hindi isang lugar, ito ay isang tao na nagpaparamdam sa iyo na ikaw ay ligtas at minamahal.\"",
+    "quote_english": "\"Home is not a place, it's a person who makes you feel safe and loved.\""
+  },
+  {
+    "id": 25,
+    "question_tagalog": "Ano ang isang katangian mo na pinakaibig mong taglayin ng ating mga anak balang araw?",
+    "question_english": "What trait of yours do you most hope our children will someday have?",
+    "quote_tagalog": "\"Ang pinaka-magandang pamana ay hindi kayamanan, kundi ang pagmamahal at mabuting ugali.\"",
+    "quote_english": "\"The most beautiful inheritance is not wealth, but love and good character.\""
+  },
+  {
+    "id": 26,
+    "question_tagalog": "Ano ang isang bagay na gusto mong sabihin sa akin pero takot kang sabihin?",
+    "question_english": "What is one thing you've wanted to tell me but were afraid to say?",
+    "quote_tagalog": "\"Ang katotohanan, kahit mahirap, ay nagpapalaya at nagpapatibay ng tiwala.\"",
+    "quote_english": "\"The truth, even when difficult, sets us free and strengthens trust.\""
+  },
+  {
+    "id": 27,
+    "question_tagalog": "Ano ang isang bagay na ginagawa ko na nagpaparamdam sa iyo na ikaw ay minamahal?",
+    "question_english": "What is one thing I do that makes you feel truly loved?",
+    "quote_tagalog": "\"Ang pagmamahal ay gumagawa ng mga ordinaryong sandali na naging ekstraordinaryo.\"",
+    "quote_english": "\"Love turns ordinary moments into extraordinary ones.\""
+  },
+  {
+    "id": 28,
+    "question_tagalog": "Ano ang iyong paboritong tawag sa akin na nais mong marinig palagi?",
+    "question_english": "What is your favorite thing to call me that you always want to say?",
+    "quote_tagalog": "\"Ang mga salitang nagmumula sa pagmamahal ay may kapangyarihang magpalakas ng kaluluwa.\"",
+    "quote_english": "\"Words that come from love have the power to strengthen the soul.\""
+  },
+  {
+    "id": 29,
+    "question_tagalog": "Kung aalis ka ng tatlong araw, ano ang pinaka-uunang mami-miss mo sa akin?",
+    "question_english": "If you were away for three days, what would you miss most about me?",
+    "quote_tagalog": "\"Ang distansya ay nagtuturo sa atin kung gaano kahalaga ang presensya ng isang mahal sa buhay.\"",
+    "quote_english": "\"Distance teaches us how precious the presence of a loved one truly is.\""
+  },
+  {
+    "id": 30,
+    "question_tagalog": "Sa tingin mo, anong bagay ang kailangan nating pagbutihin bilang magkasama?",
+    "question_english": "What do you think we need to work on most together as a couple?",
+    "quote_tagalog": "\"Ang mga relasyong pinagtutuunan ng pansin ay lumalago at nagiging mas matibay sa paglipas ng panahon.\"",
+    "quote_english": "\"Relationships that are given attention grow stronger over time.\""
+  },
+  {
+    "id": 31,
+    "question_tagalog": "Anong sandali sa ating buhay ang pinaka-nais mong bumalik?",
+    "question_english": "What moment in our life together would you most want to relive?",
+    "quote_tagalog": "\"Ang mga pinakamahalagang sandali ay ang mga hindi mo pinlano ngunit hindi mo malilimutan.\"",
+    "quote_english": "\"The most important moments are the ones you didn't plan but will never forget.\""
+  },
+  {
+    "id": 32,
+    "question_tagalog": "Ano ang iyong kahulugan ng isang matagumpay na buhay, at nandoon ba ako sa imahe nito?",
+    "question_english": "What does a successful life look like to you, and am I in that picture?",
+    "quote_tagalog": "\"Ang tagumpay ay mas matamis kapag may katabi kang mahal mo sa buhay.\"",
+    "quote_english": "\"Success is sweeter when you have someone you love by your side.\""
+  },
+  {
+    "id": 33,
+    "question_tagalog": "Paano mo nais na ipagdiwang natin ang mga tagumpay natin sa hinaharap?",
+    "question_english": "How do you want us to celebrate our achievements in the future?",
+    "quote_tagalog": "\"Ang bawat tagumpay, maliit man o malaki, ay dapat ipagdiwang nang may pusong nagpapasalamat.\"",
+    "quote_english": "\"Every achievement, big or small, deserves to be celebrated with a grateful heart.\""
+  },
+  {
+    "id": 34,
+    "question_tagalog": "Sa panahon ng kahirapan, ano ang ginagawa ko para maramdaman mong hindi ka nag-iisa?",
+    "question_english": "During hard times, what do I do that makes you feel less alone?",
+    "quote_tagalog": "\"Ang presensya ng isang mahal sa buhay sa mga mahirap na sandali ay nagbibigay ng lakas na hindi matutumbasan.\"",
+    "quote_english": "\"The presence of a loved one in hard times gives strength that nothing else can match.\""
+  },
+  {
+    "id": 35,
+    "question_tagalog": "Anong isang bagay ang nais mong mapanatili nating buhay sa ating relasyon habang tumatanda tayo?",
+    "question_english": "What one thing do you most want us to keep alive in our relationship as we grow older?",
+    "quote_tagalog": "\"Ang mga relasyong tumatagal ay ang mga pinalagan ng oras, pagpapatawad, at walang kondisyong pagmamahal.\"",
+    "quote_english": "\"Relationships that last are those nurtured with time, forgiveness, and unconditional love.\""
+  },
+  {
+    "id": 36,
+    "question_tagalog": "Ano ang pinakamagandang bagay na itinuro mo sa iyong sarili mula sa ating relasyon?",
+    "question_english": "What is the most beautiful thing our relationship has taught you about yourself?",
+    "quote_tagalog": "\"Ang pagmamahal sa ibang tao ay nagtuturo sa atin na magmahal nang mas malalim sa ating sarili.\"",
+    "quote_english": "\"Loving another person teaches us to love ourselves more deeply.\""
+  },
+  {
+    "id": 37,
+    "question_tagalog": "Kung kailangan kang pumili ng isa pang kinahihiligan namin bilang magkasama, ano ang pipiliin mo?",
+    "question_english": "If you had to choose one new hobby for us to share, what would it be?",
+    "quote_tagalog": "\"Ang mga bagong karanasan na ginagawa nating magkasama ay nagpapatibay ng ating ugnayan.\"",
+    "quote_english": "\"New experiences shared together strengthen our bond.\""
+  },
+  {
+    "id": 38,
+    "question_tagalog": "Ano ang isang araw na nais mong mabuhay muli kasama ako?",
+    "question_english": "What is a day you wish you could relive with me?",
+    "quote_tagalog": "\"Ang mga araw na puno ng pagmamahal ay nagiging mga bituin na nagbibigay liwanag sa ating gabi.\"",
+    "quote_english": "\"Days filled with love become stars that light up our nights.\""
+  },
+  {
+    "id": 39,
+    "question_tagalog": "Paano ko malalaman na kailangan mo ng higit na suporta nang hindi mo sinasabi?",
+    "question_english": "How can I tell you need more support without you having to say it?",
+    "quote_tagalog": "\"Ang pinaka-malalim na anyo ng pagmamahal ay ang naunawaan ka nang hindi mo kailangan magsalita.\"",
+    "quote_english": "\"The deepest form of love is being understood without having to speak.\""
+  },
+  {
+    "id": 40,
+    "question_tagalog": "Ano ang isang bagay na nais mo sana ginawa ko para sa iyo noong unang nagkamahal tayo?",
+    "question_english": "What is something you wish I had done for you when we first fell in love?",
+    "quote_tagalog": "\"Kahit hindi perpekto ang ating simula, ang bawat hakbang ay nagdala sa atin sa kung saan tayo ngayon.\"",
+    "quote_english": "\"Even if our beginning was imperfect, every step led us to where we are now.\""
+  },
+  {
+    "id": 41,
+    "question_tagalog": "Paano mo nais na maging tayo sa loob ng sampung taon?",
+    "question_english": "How do you imagine us ten years from now?",
+    "quote_tagalog": "\"Ang pag-ibig na pinagtutuunan ay lumalago at nagiging mas malalim habang lumilipas ang mga taon.\"",
+    "quote_english": "\"Love that is tended to grows deeper as the years pass.\""
+  },
+  {
+    "id": 42,
+    "question_tagalog": "Ano ang isang aral sa buhay na nais mong matuto tayo nang magkasama?",
+    "question_english": "What life lesson do you most want us to learn together?",
+    "quote_tagalog": "\"Ang pinakamagandang mga aral ay natututo natin kasama ang mga taong mahal natin.\"",
+    "quote_english": "\"The most beautiful lessons are learned alongside the people we love.\""
+  },
+  {
+    "id": 43,
+    "question_tagalog": "Anong bagay sa ating buhay magkasama ang pinakanakapagtutuwang sa iyo?",
+    "question_english": "What about our life together never fails to make you laugh?",
+    "quote_tagalog": "\"Ang tawanan ay isa sa mga pinakamagandang tunog na maaaring marinig sa isang tahanan.\"",
+    "quote_english": "\"Laughter is one of the most beautiful sounds a home can hold.\""
+  },
+  {
+    "id": 44,
+    "question_tagalog": "Kung kailangan mong ilarawan ang aming relasyon sa isang salita lamang, ano iyon?",
+    "question_english": "If you had to describe our relationship in one word, what would it be?",
+    "quote_tagalog": "\"Ang tunay na pagmamahal ay simple ngunit malalim, mahinahon ngunit malakas.\"",
+    "quote_english": "\"True love is simple yet profound, quiet yet powerful.\""
+  },
+  {
+    "id": 45,
+    "question_tagalog": "Ano ang isang bagay na ginagawa ko na nagpaparamdam sa iyo na ikaw ay ligtas?",
+    "question_english": "What is one thing I do that makes you feel completely safe?",
+    "quote_tagalog": "\"Ang kaligtasan na nararamdaman sa tabi ng isang mahal mo ay isa sa pinaka-pinahalagahang regalo ng pagmamahal.\"",
+    "quote_english": "\"The safety felt beside someone you love is one of love's most precious gifts.\""
+  },
+  {
+    "id": 46,
+    "question_tagalog": "Kung ang ating buhay ay isang pelikula, anong eksena ang paborito mo?",
+    "question_english": "If our life were a movie, what would your favorite scene be?",
+    "quote_tagalog": "\"Ang buhay na puno ng pagmamahal ay palaging may magandang kuwento na halos hindi kailangan ng katapusan.\"",
+    "quote_english": "\"A life full of love always has a beautiful story that hardly needs an ending.\""
+  },
+  {
+    "id": 47,
+    "question_tagalog": "Paano mo nais na harapin natin ang mga pagbabago at hamon sa buhay?",
+    "question_english": "How do you want us to face life's changes and challenges together?",
+    "quote_tagalog": "\"Ang mga hamon ay hindi upang masira ang ating ugnayan, kundi upang patunayan kung gaano ito katatag.\"",
+    "quote_english": "\"Challenges are not meant to break our bond, but to prove how strong it truly is.\""
+  },
+  {
+    "id": 48,
+    "question_tagalog": "Anong bagay talaga ang nagpapasaya sa iyo na hindi ko alam ngayon?",
+    "question_english": "What truly brings you joy that I might not know about yet?",
+    "quote_tagalog": "\"Ang pagkatuklas sa bagong bagay tungkol sa mahal mo sa buhay ay nagpapanatiling bago ang pagmamahal.\"",
+    "quote_english": "\"Discovering new things about the one you love keeps love feeling new.\""
+  },
+  {
+    "id": 49,
+    "question_tagalog": "Paano mo nais na maging mas palakaibigan tayo sa isa't isa bukod sa pagiging mag-asawa?",
+    "question_english": "How do you want us to be better friends to each other beyond being partners?",
+    "quote_tagalog": "\"Ang pinakamatalik na relasyon ay ang isa kung saan kayo rin ay pinakamatalik na magkaibigan.\"",
+    "quote_english": "\"The most intimate relationship is also the one where you are each other's best friends.\""
+  },
+  {
+    "id": 50,
+    "question_tagalog": "Anong bagay ang nais mong ipagpatuloy nating gawi kahit matagal na tayong magkasama?",
+    "question_english": "What habit do you want us to keep no matter how long we've been together?",
+    "quote_tagalog": "\"Ang mga magandang gawi na pinagtibay ng dalawang nagsisipagmahal ay nagpapanatili ng init ng relasyon.\"",
+    "quote_english": "\"Good habits shared by two people in love keep the warmth of the relationship alive.\""
+  },
+  {
+    "id": 51,
+    "question_tagalog": "Ano ang isang sandali kung saan naramdaman mong pinaka-mahalaga sa akin?",
+    "question_english": "What is a moment when you felt most valued by me?",
+    "quote_tagalog": "\"Ang pakiramdam na mahalaga sa isang tao ay nagbibigay ng lakas na magpatuloy sa buhay.\"",
+    "quote_english": "\"Feeling important to someone gives us the strength to keep going.\""
+  },
+  {
+    "id": 52,
+    "question_tagalog": "Kung maaari kang baguhin ang isang bagay tungkol sa iyong sarili para sa ating relasyon, ano ito?",
+    "question_english": "If you could change one thing about yourself for the sake of our relationship, what would it be?",
+    "quote_tagalog": "\"Ang pagbabago para sa mas magandang bersyon ng iyong sarili ay isang kilos ng pagmamahal sa iyong sarili at sa iyong kasintahan.\"",
+    "quote_english": "\"Changing into a better version of yourself is an act of love for both yourself and your partner.\""
+  },
+  {
+    "id": 53,
+    "question_tagalog": "Anong bagay ang gusto mong gawin para sa akin na hindi mo pa nagagawa?",
+    "question_english": "What is something you want to do for me that you haven't done yet?",
+    "quote_tagalog": "\"Ang pagmamahal ay palaging may bagong paraan ng pagpapakita ng sarili nito sa mga taong handang tumingin.\"",
+    "quote_english": "\"Love always finds new ways to express itself to those willing to see.\""
+  },
+  {
+    "id": 54,
+    "question_tagalog": "Ano ang kahulugan ng 'tahanan' para sa iyo, at gaano ko kalapit sa kahulugang iyon?",
+    "question_english": "What does 'home' mean to you, and how close am I to that meaning?",
+    "quote_tagalog": "\"Ang tunay na tahanan ay ang lugar kung saan nararamdaman mo ang pagmamahal at pagtanggap nang walang kondisyon.\"",
+    "quote_english": "\"A true home is where you feel love and acceptance without conditions.\""
+  },
+  {
+    "id": 55,
+    "question_tagalog": "Anong oras ng araw ang paborito mong maging kasama ako at bakit?",
+    "question_english": "What time of day is your favorite time to be with me and why?",
+    "quote_tagalog": "\"Ang mga simpleng sandaling kasama ang isang minamahal ay ang mga sandaling pinaka-kapansin-pansing nagbibigay ng kahulugan sa buhay.\"",
+    "quote_english": "\"Simple moments with someone loved are the moments that most give life meaning.\""
+  },
+  {
+    "id": 56,
+    "question_tagalog": "Kung tatlong salita ang gagamitin mo upang ilarawan ang aking pagmamahal sa iyo, anu-ano ang mga ito?",
+    "question_english": "If you used three words to describe my love for you, what would they be?",
+    "quote_tagalog": "\"Ang pagmamahal ay isang wika na nararamdaman ng puso bago pa man ito naibigkas ng bibig.\"",
+    "quote_english": "\"Love is a language felt by the heart long before it is spoken by the lips.\""
+  },
+  {
+    "id": 57,
+    "question_tagalog": "Ano ang isang bagay na palagi mong nais sabihin sa akin ngunit nakakalimutan mo?",
+    "question_english": "What is something you always want to tell me but forget to say?",
+    "quote_tagalog": "\"Ang mga simpleng salitang 'salamat', 'mahal kita', at 'nandito ako para sa iyo' ay may kapangyarihang baguhin ang isang araw.\"",
+    "quote_english": "\"Simple words like 'thank you', 'I love you', and 'I'm here for you' have the power to change a day.\""
+  },
+  {
+    "id": 58,
+    "question_tagalog": "Paano mo nais na kilalanin kita nang higit pa kaysa sa nakilala mo na ako ngayon?",
+    "question_english": "How do you want to know me even more deeply than you already do?",
+    "quote_tagalog": "\"Ang pagkilala sa isang tao ay isang walang hanggang paglalakbay na puno ng mga nakakaaliw na sorpresa.\"",
+    "quote_english": "\"Knowing a person is an endless journey full of delightful surprises.\""
+  },
+  {
+    "id": 59,
+    "question_tagalog": "Ano ang pinaka-nais mong maalala ng ating mga apo tungkol sa ating pagmamahal?",
+    "question_english": "What do you most want our grandchildren to remember about our love?",
+    "quote_tagalog": "\"Ang pinaka-matibay na pagmamahal ay ang nagtatagal ng maraming henerasyon dahil sa halimbawang iniiwan ng mga nagmamahal.\"",
+    "quote_english": "\"The strongest love is the one that outlasts generations because of the example those in love leave behind.\""
+  },
+  {
+    "id": 60,
+    "question_tagalog": "Kung isang bagay lamang ang maaari mong sabihin sa akin ngayong gabi, ano iyon?",
+    "question_english": "If you could say only one thing to me tonight, what would it be?",
+    "quote_tagalog": "\"Sa katapusan ng bawat araw, ang pinaka-mahalaga ay ang malaman ng iyong mahal sa buhay na minamahal mo siya.\"",
+    "quote_english": "\"At the end of every day, what matters most is that the one you love knows you love them.\""
+  }
+]
