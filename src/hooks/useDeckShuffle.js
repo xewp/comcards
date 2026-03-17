@@ -1,5 +1,5 @@
-import { useState, useCallback } from 'react';
-import cardsData from '../data/cards.json';
+import { useState, useCallback, useEffect } from 'react';
+import { editions } from '../data/editions';
 
 /**
  * Fisher-Yates shuffle algorithm
@@ -26,17 +26,27 @@ function shuffle(array) {
  *  - shuffleDeck() : reshuffle and reset the deck
  *  - isLastCard    : true when only 1 card remains
  */
-export function useDeckShuffle() {
-  const [deck, setDeck]             = useState(() => shuffle(cardsData));
+export function useDeckShuffle(editionId = 'classic') {
+  const editionData = editions[editionId]?.data || editions.classic.data;
+
+  const [deck, setDeck]             = useState(() => shuffle(editionData));
   const [currentCard, setCurrentCard] = useState(null);
   const [history, setHistory]       = useState([]);
+
+  // When edition changes, reset everything
+  useEffect(() => {
+    const fresh = shuffle(editionData);
+    setDeck(fresh);
+    setCurrentCard(null);
+    setHistory([]);
+  }, [editionId]);
 
   const drawCard = useCallback(() => {
     let activeDeck = deck;
 
     // Auto-reshuffle when deck is exhausted
     if (activeDeck.length === 0) {
-      activeDeck = shuffle(cardsData);
+      activeDeck = shuffle(editions[editionId]?.data || editions.classic.data);
       setHistory([]);
     }
 
@@ -44,19 +54,19 @@ export function useDeckShuffle() {
     setDeck(rest);
     setCurrentCard(next);
     setHistory(prev => [...prev, next]);
-  }, [deck]);
+  }, [deck, editionId]);
 
   const shuffleDeck = useCallback(() => {
-    const fresh = shuffle(cardsData);
+    const fresh = shuffle(editions[editionId]?.data || editions.classic.data);
     setDeck(fresh);
     setCurrentCard(null);
     setHistory([]);
-  }, []);
+  }, [editionId]);
 
   return {
     currentCard,
     remaining: deck.length,
-    totalCards: cardsData.length,
+    totalCards: editionData.length,
     drawCard,
     shuffleDeck,
     isLastCard: deck.length === 1,

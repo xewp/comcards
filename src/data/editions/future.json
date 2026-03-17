@@ -1,0 +1,352 @@
+[
+  {
+    "id": "future-1",
+    "question_tagalog": "Ano ang pangarap mong bahay at saan mo ito gustong itayo?",
+    "question_english": "What is your dream home and where do you want to build it?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-2",
+    "question_tagalog": "Ilan ang gusto mong maging anak natin sa hinaharap, at bakit?",
+    "question_english": "How many children do you want us to have in the future, and why?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-3",
+    "question_tagalog": "Ano ang pinakamahalagang aral na gusto mong ituro sa mga magiging anak natin?",
+    "question_english": "What is the most important lesson you want to teach our future children?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-4",
+    "question_tagalog": "Ano ang plano mo sa pinansyal natin sampung taon mula ngayon?",
+    "question_english": "What is your financial plan for us ten years from now?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-5",
+    "question_tagalog": "Paano mo nakikita ang sarili mo sa iyong karera pagkalipas ng limang taon?",
+    "question_english": "How do you see yourself in your career after five years?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-6",
+    "question_tagalog": "Saan mo gustong mag-retire kasama ako?",
+    "question_english": "Where do you want to retire with me?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-7",
+    "question_tagalog": "Ano ang gusto mong mangyari sa tuwing nagkakaroon tayo ng malaking hindi pagkakaintindihan habang tumatanda?",
+    "question_english": "What do you want to happen whenever we have a huge misunderstanding as we grow older?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-8",
+    "question_tagalog": "Sino ang magaalaga sa mga magulang natin kapag matanda na sila?",
+    "question_english": "Who will take care of our parents when they get old?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-9",
+    "question_tagalog": "Ano ang gusto mong maging pinakamalaking legacy natin bilang mag-asawa?",
+    "question_english": "What do you want our biggest legacy to be as a couple?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-10",
+    "question_tagalog": "Anong tradisyon ng pamilya ang gusto mong simulan natin?",
+    "question_english": "What family tradition do you want us to start?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-11",
+    "question_tagalog": "Ano ang pananaw mo tungkol sa paghihiwalay ng gastusin sa bahay?",
+    "question_english": "What are your views on splitting household expenses?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-12",
+    "question_tagalog": "Paano mo ibabalance ang trabaho at ang oras sa pamilya natin?",
+    "question_english": "How will you balance work and time with our family?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-13",
+    "question_tagalog": "Ano ang mga gusto mong makamit natin bago tayo magkaroon ng sarili nating pamilya?",
+    "question_english": "What do you want us to achieve before starting our own family?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-14",
+    "question_tagalog": "Handa ka bang lumipat sa ibang bansa para sa magandang oportunidad, kahit malayo tayo sa pamilya?",
+    "question_english": "Are you willing to move to another country for a great opportunity, even if we'll be far from family?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-15",
+    "question_tagalog": "Kung may malaking sakuna o krisis na dumating, paano natin ito lalagpasan?",
+    "question_english": "If a huge disaster or crisis comes, how will we overcome it?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-16",
+    "question_tagalog": "Ano ang pananaw mo tungkol sa paghiram o pagpapautang ng pera sa ating mga kamag-anak?",
+    "question_english": "What is your view on borrowing or lending money to our relatives?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-17",
+    "question_tagalog": "Gaano kadalas mo gustong bisitahin o makasama ang ating mga in-laws?",
+    "question_english": "How often do you want to visit or spend time with our in-laws?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-18",
+    "question_tagalog": "Ano ang gagawin mo kapag hindi natin makuha ang gusto natin agad-agad sa buhay?",
+    "question_english": "What will you do if we can't get what we want immediately in life?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-19",
+    "question_tagalog": "Saan mo mapupunta ang ipon natin kapag tayo'y umedad na?",
+    "question_english": "Where will our savings go when we grow older?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-20",
+    "question_tagalog": "Ano ang dapat gawin kapag nag-away tayo sa harap ng ating mga anak?",
+    "question_english": "What should be done when we fight in front of our children?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-21",
+    "question_tagalog": "Ano ang gusto mong pagtuunan natin ng pansin pagkatapos mag-retire?",
+    "question_english": "What do you want us to focus on after retiring?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-22",
+    "question_tagalog": "Kung sakaling hindi tayo magkaanak, ano ang magiging plano B natin?",
+    "question_english": "In case we can't have children, what will be our plan B?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-23",
+    "question_tagalog": "Ano ang gagawin natin kapag isa sa atin ang mawalan ng asensyo sa karera?",
+    "question_english": "What will we do if one of us loses progression in our career?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-24",
+    "question_tagalog": "Paano mo i-handle ang edukasyon ng mga bata, public man o private?",
+    "question_english": "How will you handle the kids' education, whether public or private?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-25",
+    "question_tagalog": "Anong bansa ang gusto mong i-explore natin sa mga susunod na taon?",
+    "question_english": "Which country do you want us to explore in the coming years?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-26",
+    "question_tagalog": "Paano mapapanatili ang pag-iibigan natin sa kabila ng stress sa trabaho at pera?",
+    "question_english": "How can we maintain our love despite stress from work and money?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-27",
+    "question_tagalog": "Kung sakaling magbago ang ugali o gawi ng isa sa atin, pano natin aayusin?",
+    "question_english": "If one of our attitudes or habits changes, how will we fix it?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-28",
+    "question_tagalog": "Ano sa palagay mo ang pinakamahalagang katangian bilang isang magulang?",
+    "question_english": "What do you think is the most important trait as a parent?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-29",
+    "question_tagalog": "Ano ang mangyayari kung hindi suportado ng isa sa atin ang pangarap ng isa?",
+    "question_english": "What will happen if one of us doesn't support the other's dream?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-30",
+    "question_tagalog": "Saan natin ilalagay ang hangganan pagdating sa privacy nating dalawa?",
+    "question_english": "Where will we put the boundary when it comes to the privacy of us both?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-31",
+    "question_tagalog": "Paano natin ituturing ang pera bilang magkasintahan/mag-asawa?",
+    "question_english": "How will we treat money as partners/spouses?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-32",
+    "question_tagalog": "Kailan ang tamang panahon para bumili ng unang sasakyan natin?",
+    "question_english": "When is the right time to buy our first car?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-33",
+    "question_tagalog": "Saan ang pangarap mong honeymoon o anniversary trip natin?",
+    "question_english": "Where is your dream honeymoon or anniversary trip for us?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-34",
+    "question_tagalog": "Ano ang kailangan nating gawin para manatiling buo ang ating pamilya at relasyon?",
+    "question_english": "What do we need to do to keep our family and relationship intact?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-35",
+    "question_tagalog": "Kung nagkakasakit ako ng malubha, anong plano mo para sa atin?",
+    "question_english": "If I get seriously ill, what is your plan for us?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-36",
+    "question_tagalog": "Gusto mo ba na magkaroon tayo ng mga alagang hayop habang buhay?",
+    "question_english": "Do you want us to have pets for life?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-37",
+    "question_tagalog": "Paano mo haharapin kung hindi natin matutupad lahat ng pangarap natin?",
+    "question_english": "How will you cope if we can't fulfill all our dreams?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-38",
+    "question_tagalog": "Sino ang magde-decide kapag may malaking desisyong pangpinansyal na kailangang gawin?",
+    "question_english": "Who will decide when there is a major financial decision to make?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-39",
+    "question_tagalog": "Paano mo ipapakita ang suporta mo sa paglipas ng panahon kahit busy tayo?",
+    "question_english": "How will you show your support over time even when we are busy?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-40",
+    "question_tagalog": "Kung manalo tayo sa lotto, anong unang bagay ang bibihin mo para sa atin?",
+    "question_english": "If we win the lottery, what is the first thing you will buy for us?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-41",
+    "question_tagalog": "Anong pamana o ari-arian ang gusto mong ipamana natin sa susunod na henerasyon?",
+    "question_english": "What inheritance or property do you want us to pass on to the next generation?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-42",
+    "question_tagalog": "Gaano kahalaga sayo ang simbahan at anong papel nito sa future family natin?",
+    "question_english": "How important is the church to you and what role does it play in our future family?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-43",
+    "question_tagalog": "Sino sa atin ang dapat pumigil kapag nag-aaway tayo nang sobrang init?",
+    "question_english": "Who between us should step back when we're fighting too heatedly?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-44",
+    "question_tagalog": "Kung iisa lang sana ang wish ko para sa ating dalawa sa hinaharap, ano ang ipapayo mong hilingin ko?",
+    "question_english": "If I only had one wish for both of us in the future, what would you advise me to wish for?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-45",
+    "question_tagalog": "Ano ang paninindigan mo pagdating sa long-distance sa buhay mag-asawa kung kailangan?",
+    "question_english": "What is your stance regarding holding a long-distance marriage if necessary?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  },
+  {
+    "id": "future-46",
+    "question_tagalog": "Paano natin mai-inspire ang isa't isa para patuloy na mangarap at tuparin iyon?",
+    "question_english": "How can we inspire each other to continue to dream and fulfill it?",
+    "quote_tagalog": "\"Ang pangarap ay hindi lang binubuo; ito'y pinaghihirapan ng magkasama.\"",
+    "quote_english": "\"Dreams are not just made; they are worked on together.\""
+  },
+  {
+    "id": "future-47",
+    "question_tagalog": "Anong sakripisyo ang kailanma'y hindi mo kayang gawin, kahit na mag-asawa na tayo?",
+    "question_english": "What sacrifice can you never make, even when we are married?",
+    "quote_tagalog": "\"Ang ating hinaharap ay sumasalamin sa kung paano tayo nagmamahal ngayon.\"",
+    "quote_english": "\"Our future reflects how we love today.\""
+  },
+  {
+    "id": "future-48",
+    "question_tagalog": "Paano mo matatanggap kung hindi ko narating ang tagumpay na inaasahan ko?",
+    "question_english": "How will you accept it if I don't achieve the success I expect?",
+    "quote_tagalog": "\"Ang matibay na pundasyon ay nagsisimula sa simpleng pagtitiyaga.\"",
+    "quote_english": "\"A solid foundation starts with simple patience.\""
+  },
+  {
+    "id": "future-49",
+    "question_tagalog": "Anong katangian mo ang ayaw mong mamana ng ating magiging mga anak?",
+    "question_english": "Which of your traits do you hope our future children won't inherit?",
+    "quote_tagalog": "\"Maganda ang tanawin pagdating sa dulo kapag ikaw ang aking kasama.\"",
+    "quote_english": "\"The view is beautiful at the end when you are with me.\""
+  },
+  {
+    "id": "future-50",
+    "question_tagalog": "Sa huling hininga namin pagdating ng panahon, anong mga salita ang gusto mong huli kong marinig sayo?",
+    "question_english": "In our final breaths when the time comes, what words do you want me to hear last from you?",
+    "quote_tagalog": "\"Sa bawat pagplano, isama lagi ang pagmamahal.\"",
+    "quote_english": "\"In every plan, always include love.\""
+  }
+]

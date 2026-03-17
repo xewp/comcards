@@ -7,6 +7,7 @@ import ShuffleButton from '../components/ShuffleButton';
 import LanguageToggle from '../components/LanguageToggle';
 import { useDeckShuffle } from '../hooks/useDeckShuffle';
 import { useFavorites } from '../hooks/useFavorites';
+import { editions } from '../data/editions';
 
 /* Warm gradient backgrounds that cycle on shuffle */
 const BG_GRADIENTS = [
@@ -23,7 +24,8 @@ const DARK_BG_GRADIENTS = [
 ];
 
 export default function Home({ darkMode, setDarkMode }) {
-  const { currentCard, remaining, totalCards, drawCard, shuffleDeck } = useDeckShuffle();
+  const [selectedEdition, setSelectedEdition] = useState('classic');
+  const { currentCard, remaining, totalCards, drawCard, shuffleDeck } = useDeckShuffle(selectedEdition);
   const { favorites, toggleFavorite, isFavorite, clearFavorites }     = useFavorites();
 
   const [language, setLanguage]         = useState('both');
@@ -70,6 +72,8 @@ export default function Home({ darkMode, setDarkMode }) {
         setDarkMode={setDarkMode}
         favoritesCount={favorites.length}
         onFavClick={handleFavClick}
+        selectedEdition={selectedEdition}
+        onSelectEdition={setSelectedEdition}
       />
 
       {/* Main content */}
@@ -243,7 +247,7 @@ export default function Home({ darkMode, setDarkMode }) {
           transition={{ delay: 1 }}
           className={`text-center text-xs ${darkMode ? 'text-warm-600' : 'text-warm-300'}`}
         >
-          Made with 💕 — Comfort Cards Couples Edition
+          Made with 💕 — Comfort Cards {editions[selectedEdition]?.name || 'Couples Edition'}
         </motion.p>
       </main>
     </div>

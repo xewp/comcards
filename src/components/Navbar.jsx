@@ -1,11 +1,12 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import EditionSelector from './EditionSelector';
 
 /**
  * Navbar
  * Displays the app brand, dark mode toggle, and favorites count badge.
  */
-export default function Navbar({ darkMode, setDarkMode, favoritesCount, onFavClick }) {
+export default function Navbar({ darkMode, setDarkMode, favoritesCount, onFavClick, selectedEdition, onSelectEdition }) {
   return (
     <motion.nav
       initial={{ y: -60, opacity: 0 }}
@@ -22,17 +23,25 @@ export default function Navbar({ darkMode, setDarkMode, favoritesCount, onFavCli
         }
       `}
     >
-      {/* Brand */}
-      <div className="flex items-center gap-2">
-        <span className="text-xl">💕</span>
-        <div>
+      {/* Brand & Edition Selector */}
+      <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4">
+        <div className="flex items-center gap-2">
+          <span className="text-xl">💕</span>
           <h1 className="font-serif font-bold text-base sm:text-lg leading-tight">
             Comfort Cards
           </h1>
-          <p className={`text-[10px] font-light tracking-widest uppercase ${darkMode ? 'text-beige-300' : 'text-warm-400'}`}>
-            Couples Edition
-          </p>
         </div>
+        
+        {/* Edition Selector inside Navbar */}
+        {selectedEdition && (
+          <div className="pl-7 sm:pl-0">
+             <EditionSelector 
+                selectedEdition={selectedEdition} 
+                onSelectEdition={onSelectEdition} 
+                darkMode={darkMode} 
+             />
+          </div>
+        )}
       </div>
 
       {/* Right actions */}

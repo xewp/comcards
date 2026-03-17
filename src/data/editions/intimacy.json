@@ -1,0 +1,352 @@
+[
+  {
+    "id": "intimacy-1",
+    "question_tagalog": "Ilang beses sa isang araw mo gustong nakakarinig ng 'I love you'?",
+    "question_english": "How many times a day do you want to hear 'I love you'?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-2",
+    "question_tagalog": "Ano ang paborito mong parte ng aking katawan at bakit?",
+    "question_english": "What is your favorite part of my body and why?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-3",
+    "question_tagalog": "Anong uri ng pisikal na hawak ang pinakanagpapagaan ng loob mo?",
+    "question_english": "What kind of physical touch comforts you the most?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-4",
+    "question_tagalog": "Kailan mo nararamdaman na pinaka-konektado tayo nang hindi nagsasalita?",
+    "question_english": "When do you feel we are most connected without speaking?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-5",
+    "question_tagalog": "Ano ang pinakanakakakilig na ginawa ko para sa iyo pero hindi ko alam?",
+    "question_english": "What is the most romantic thing I've done for you without knowing it?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-6",
+    "question_tagalog": "Paano kita mapapasundo kapag naiinis ka sa akin?",
+    "question_english": "How can I calm you down when you're annoyed at me?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-7",
+    "question_tagalog": "Saan mo gustong mahawakan o mahalikan kapag pagod ka galing sa trabaho?",
+    "question_english": "Where do you want to be touched or kissed when you're tired from work?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-8",
+    "question_tagalog": "Gaano kadalas mo gustong mag-date night at saan ito maganda gawin?",
+    "question_english": "How often do you want to have date nights and where is it best to have them?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-9",
+    "question_tagalog": "Ano para sa iyo ang perpektong gabi natin magkasama?",
+    "question_english": "What does our perfect night together look like for you?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-10",
+    "question_tagalog": "Kailan ako pinaka-attractive paningin mo?",
+    "question_english": "When am I most attractive in your eyes?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-11",
+    "question_tagalog": "Ano ang isang pantasya na gusto mong subukan natin kapag tayong dalawa lang?",
+    "question_english": "What is a fantasy you want us to try when we're alone together?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-12",
+    "question_tagalog": "Saang lugar tayo pinakamadalas nagkakaroon ng malalim na usapan, at bakit doon?",
+    "question_english": "Where do we usually have the deepest conversations, and why there?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-13",
+    "question_tagalog": "Paano mo malalaman na gusto na kitang halikan kahit hindi pa tayo nagyayakapan?",
+    "question_english": "How do you know I already want to kiss you even if we aren't hugging yet?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-14",
+    "question_tagalog": "Ano ang paborito mong alaalang pisikal na nagparamdam sayo na ligtas ka?",
+    "question_english": "What is your favorite physical memory that made you feel safe?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-15",
+    "question_tagalog": "Sa ginagawa natin habang nag-iisa, ano ang pinakahihintay mong laging mangyari?",
+    "question_english": "In the things we do when we are alone, what do you always look forward to happening?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-16",
+    "question_tagalog": "Gusto mo ba na tayo ay madalas o madalang mag-holding hands sa labas, at bakit?",
+    "question_english": "Do you prefer us holding hands often or rarely outside, and why?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-17",
+    "question_tagalog": "Ano ang paraan mo para sabihin na gusto mong lambingin kita nang mas malalim?",
+    "question_english": "What is your way of saying that you want a deeper intimacy from me?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-18",
+    "question_tagalog": "Nakatutulong ba ang pagsasabi ng maiinit na salita bago ang sarili nating tagpo?",
+    "question_english": "Does saying hot/passionate words help before our private moment?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-19",
+    "question_tagalog": "Ano yong ginagawa kong paghipo o yakap sa 'yo na napapapikit ka sa sarap?",
+    "question_english": "What touch or hug of mine makes you close your eyes in bliss?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-20",
+    "question_tagalog": "Saan mo pinakagustong magpalambing sa akin bago matulog?",
+    "question_english": "Where do you most want to be pampered by me before going to sleep?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-21",
+    "question_tagalog": "Para sa iyo, ano ang kulay ng pagmamahal na puno ng emosyon at pagnanasa?",
+    "question_english": "For you, what is the color of love full of emotion and desire?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-22",
+    "question_tagalog": "Sino sa atin ang unang nagyayayang maglapat ang mga labi sa umaga?",
+    "question_english": "Who between us initiates a morning kiss first?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-23",
+    "question_tagalog": "Gaano ka kadalas nagsusumiksik sa akin kapag gumiginaw sa madaling araw?",
+    "question_english": "How often do you snuggle up to me when it gets cold at dawn?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-24",
+    "question_tagalog": "Kapag nakatulog tayo na magkatabi, paano mo ko gustong hawakan?",
+    "question_english": "When we fall asleep next to each other, how do you want to hold me?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-25",
+    "question_tagalog": "Ano sa palagay mo ang pinaka-wild na adventure natin kapag nagbakasyon tayo?",
+    "question_english": "What do you think is our wildest adventure while on vacation?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-26",
+    "question_tagalog": "Ilan sa mga yakap mo ang sinasadya mong magtagal nang sobra?",
+    "question_english": "How many of your hugs do you intentionally prolong?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-27",
+    "question_tagalog": "Ano sa tuwing nangyayari bago tayo maligo na gusto mong inuulit?",
+    "question_english": "What do you want us to repeat that usually happens before we bathe?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-28",
+    "question_tagalog": "Mas nakakaexcite ba sa iyo pag may background music tayo sa kama?",
+    "question_english": "Is it more exciting for you when we have background music in bed?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-29",
+    "question_tagalog": "Kailan natin huling naramdaman at sinabing 'ito na ang pinakamasarap na gabi'?",
+    "question_english": "When did we last feel and say 'this is the most satisfying night'?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-30",
+    "question_tagalog": "Pano mo pinipigilan ang sarili mo na halikan ako tuwing may galit ka?",
+    "question_english": "How do you stop yourself from kissing me whenever you're angry?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-31",
+    "question_tagalog": "Ano sa mga ginagawa nating pag-iingay ang mas ginaganahan mong ituloy?",
+    "question_english": "What kind of noises do we make that makes you want to keep going?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-32",
+    "question_tagalog": "Sa mga titig natin, alin yung sinasabi mong 'naiintindihan na kita'?",
+    "question_english": "In our stares, which one says 'I understand what you mean now'?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-33",
+    "question_tagalog": "Tuwing umuulan at tayong dalawa lang sa bahay, ano yong laging tumatakbo sa isip mo?",
+    "question_english": "Whenever it rains and it's just the two of us at home, what is always on your mind?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-34",
+    "question_tagalog": "Kung meron tayong secret language gamit ang hawak o mata, ano yon?",
+    "question_english": "If we had a secret language using touch or our eyes, what would it be?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-35",
+    "question_tagalog": "Anong kanta ang pumupukaw na laging hinihiling mong simulan na nating maglambing sa gabi?",
+    "question_english": "What song arouses you that you always wish we start pampering each other at night?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-36",
+    "question_tagalog": "Para sayo, saan tayo dapat magfocus para mas bumango ang tingin natin sa isat-isa?",
+    "question_english": "For you, what should we focus on to make ourselves smell/look better to each other?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-37",
+    "question_tagalog": "Naaalala mo ba ang asim at tamis ng una nating pagpapasaya sa isat-isa?",
+    "question_english": "Do you remember the sour and sweet of our first time pleasuring each other?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-38",
+    "question_tagalog": "Tuwing nasa byahe tayo, kaya mo bang iparamdam ang init nang hindi tayo nahuhuli?",
+    "question_english": "Whenever we're traveling, can you make me feel the heat without us getting caught?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-39",
+    "question_tagalog": "Anong unan o blanked ang paborito mong gamitin kasama ako sa gabi?",
+    "question_english": "Which pillow or blanket is your favorite to use with me at night?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-40",
+    "question_tagalog": "Bukod sa kama, anong bahagi pa ng kwarto natin ang gusto mong itest?",
+    "question_english": "Besides the bed, what other part of our bedroom do you want to test?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-41",
+    "question_tagalog": "Gusto mo ba pag malamig o pag mainit yung panahon kapag tayo ay seryosong nagkukwentuhan nang naka-yakap?",
+    "question_english": "Do you prefer a cold or warm weather when we seriously converse while hugging?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-42",
+    "question_tagalog": "Tuwing binubulungan kita sa tenga, paano nito binabago ang tibok ng puso mo?",
+    "question_english": "Whenever I whisper in your ear, how does it change your heartbeat?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-43",
+    "question_tagalog": "Kung bibigyan ka na subukan nating dalawa ang isang exotic fruit bago ang lambing, anong prutas",
+    "question_english": "If given a chance to try an exotic fruit before intimacy, what fruit would it be?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-44",
+    "question_tagalog": "Para saan yung matagal na pagtitig bago natin ibigay ang lahat nang pagnanasa natin sa isat-isa?",
+    "question_english": "What is the long stare for before we give our all into our desires with each other?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-45",
+    "question_tagalog": "Pag naiinitan sa gabi at nagniningning na ang aspeto ng katawan natin, nasisiyahan ka rin ba?",
+    "question_english": "When it feels hot at night and our body aspect begins to shine (sweat), do you feel satisfied too?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  },
+  {
+    "id": "intimacy-46",
+    "question_tagalog": "Ilan ang chances na umulit uli tayo kinabukasan kapag nakatulog ka ng mahimbing at napagod bago pa man din?",
+    "question_english": "What are the chances we go again the next day if you slept soundly and got tired beforehand?",
+    "quote_tagalog": "\"Ang pinakamalalim na komunikasyon ay nagaganap nang walang salita.\"",
+    "quote_english": "\"The deepest communication happens without words.\""
+  },
+  {
+    "id": "intimacy-47",
+    "question_tagalog": "Para saan yung sinasabi mong halik na para lang sa akin pag tayo lang?",
+    "question_english": "What does that kiss mean that you say is just for me when we are alone?",
+    "quote_tagalog": "\"Ang titig mo ay ang pinakamagandang wika ng iyong pagsinta.\"",
+    "quote_english": "\"Your gaze is the most beautiful language of your adore.\""
+  },
+  {
+    "id": "intimacy-48",
+    "question_tagalog": "Kung isasayaw mo ako habang nakapikit tayo sa dilim, anong nararamdaman mo at sino namumuno sa sayaw?",
+    "question_english": "If you dance with me with our eyes closed in the dark, what do you feel and who leads the dance?",
+    "quote_tagalog": "\"Sa mga bisig mo ko unang nahanap ang payapa at nakakapaso kong pag-ibig.\"",
+    "quote_english": "\"In your arms, I first found my peaceful and burning love.\""
+  },
+  {
+    "id": "intimacy-49",
+    "question_tagalog": "Pano naabot natin ang level ng ganitong tiwala bago pa man natin inalis ang bawat takip sa katawan?",
+    "question_english": "How did we reach this level of trust even before we removed every cover off our bodies?",
+    "quote_tagalog": "\"Ang pisikal na yakap ang nag-aalis sa bigat ng araw-araw.\"",
+    "quote_english": "\"A physical hug washes away the heaviness of every day.\""
+  },
+  {
+    "id": "intimacy-50",
+    "question_tagalog": "Kailan mo na feel na sapat na ako, sapat ang init, sapat na lahat para sa atin?",
+    "question_english": "When did you feel that I am enough, the heat is enough, everything is enough for us?",
+    "quote_tagalog": "\"Hindi man natin sinasabi, naipapasa natin sa dampi ang bawat tibok.\"",
+    "quote_english": "\"Even when we don't speak, we impart every beat through a touch.\""
+  }
+]

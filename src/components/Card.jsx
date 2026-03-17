@@ -112,7 +112,7 @@ export default function Card({ card, language, isFavorite, onFavorite, onSwipeLe
                 : 'bg-gradient-to-br from-cream-50 to-beige-100 border-beige-200/70 text-warm-800'
               }
             `}
-            style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden' }}
+            style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden', transform: 'translateZ(0)' }}
           >
             {/* Decorative circles */}
             <div className={`absolute -top-10 -right-10 w-40 h-40 rounded-full opacity-20
@@ -186,7 +186,7 @@ export default function Card({ card, language, isFavorite, onFavorite, onSwipeLe
                 : 'bg-gradient-to-br from-beige-200 to-cream-200 border-beige-300/70 text-warm-800'
               }
             `}
-            style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden', transform: 'rotateY(180deg)' }}
+            style={{ backfaceVisibility: 'hidden', WebkitBackfaceVisibility: 'hidden', transform: 'rotateY(180deg) translateZ(0)' }}
           >
             {/* Decorative dots */}
             <div className={`absolute top-4 left-4 w-28 h-28 rounded-full opacity-15
