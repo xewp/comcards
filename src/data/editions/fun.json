@@ -1,352 +1,62 @@
 [
-  {
-    "id": "fun-1",
-    "question_tagalog": "Kung magiging isang uri ng ulam ka, ano ka at bakit?",
-    "question_english": "If you were a type of dish, what would you be and why?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-2",
-    "question_tagalog": "Ano ang pinakanakakahiyang nangyari sa iyo sa pampublikong lugar?",
-    "question_english": "What is the most embarrassing thing that happened to you in public?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-3",
-    "question_tagalog": "Kung puwede kang magkaroon ng isang walang kwentang superpower, ano ito?",
-    "question_english": "If you could have one useless superpower, what would it be?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-4",
-    "question_tagalog": "Ano ang palagi mong tinatawanan kahit hindi naman masyadong nakakatawa?",
-    "question_english": "What do you always laugh at even if it's not that funny?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-5",
-    "question_tagalog": "Kung gagawing pelikula ang buhay natin, ano ang pamagat nito at sino ang gaganap sa atin?",
-    "question_english": "If our life was made into a movie, what would the title be and who would play us?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-6",
-    "question_tagalog": "Ano ang pinakawierd na kinakain mo noong bata ka?",
-    "question_english": "What is the weirdest thing you ate when you were a kid?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-7",
-    "question_tagalog": "Sino ang iyong pinakaunang celebrity crush?",
-    "question_english": "Who is your very first celebrity crush?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-8",
-    "question_tagalog": "Kung bibigyan kita ng 1 million pesos pero kailangan mong i-give up ang internet ng isang taon, papayag ka ba?",
-    "question_english": "If I gave you 1 million pesos but you had to give up the internet for a year, would you agree?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-9",
-    "question_tagalog": "Ano ang paborito mong pabangong amoy, kahit na amoy ng pagkain o gas?",
-    "question_english": "What is your favorite scent, even if it's the smell of food or gasoline?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-10",
-    "question_tagalog": "Paano ka palaging nakakatakas sa mga patakaran ng mga magulang mo dati?",
-    "question_english": "How did you usually get away with your parents' rules back then?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-11",
-    "question_tagalog": "Kung isa kang hayop base sa personality mo, anong hayop ka?",
-    "question_english": "If you were an animal based on your personality, what animal would you be?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-12",
-    "question_tagalog": "Ano ang isang trend na sinakyan mo noon pero ngayon pinagsisihan mo?",
-    "question_english": "What is one trend you followed before but now regret?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-13",
-    "question_tagalog": "Kung mabubuhay ka sa isang fictional na uniberso (gaya ng Harry Potter o Marvel), saan mo gusto?",
-    "question_english": "If you could live in a fictional universe (like Harry Potter or Marvel), where would you want to be?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-14",
-    "question_tagalog": "Ano ang pinakanakakatawang bagay na sinabi mo habang natutulog?",
-    "question_english": "What is the funniest thing you've said in your sleep?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-15",
-    "question_tagalog": "Kung ang pangalan natin ay base sa pinakamasamang ugali natin, ano ang itatawag mo sa akin?",
-    "question_english": "If our names were based on our worst habit, what would you call me?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-16",
-    "question_tagalog": "Ano ang pinakamasamang regalo na natanggap mo?",
-    "question_english": "What is the worst gift you’ve ever received?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-17",
-    "question_tagalog": "Kaya mo bang i-spell ang pangalan ko gamit ang ilong mo?",
-    "question_english": "Can you spell my name using your nose?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-18",
-    "question_tagalog": "Kung makakaimbento ka ng isang holiday, ano ang ipagdiriwang at paano ang pagdiriwang nito?",
-    "question_english": "If you could invent a holiday, what would it celebrate and how would it be celebrated?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-19",
-    "question_tagalog": "Ano ang paborito mong tsismis na narinig mo ngayong linggo?",
-    "question_english": "What is your favorite gossip you heard this week?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-20",
-    "question_tagalog": "Sino sa atin ang mas malamang na makulong dahil sa isang kalokohan?",
-    "question_english": "Who among us is more likely to go to jail for a silly prank?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-21",
-    "question_tagalog": "Ano ang paborito mong nakakatawang meme ngayon?",
-    "question_english": "What is your favorite funny meme right now?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-22",
-    "question_tagalog": "Kung may background music ka saan ka man magpunta, anong kanta iyon?",
-    "question_english": "If you had background music wherever you went, what song would it be?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-23",
-    "question_tagalog": "Ano pinakapalpak na pickup line na sinubukan mong gamitin o ginamit sayo?",
-    "question_english": "What is the most epic fail pickup line you've tried to use or was used on you?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-24",
-    "question_tagalog": "Kung maaari kang maging bata ulit ng isang araw, anong kalokohan ang gagawin mo?",
-    "question_english": "If you could be a child again for one day, what mischief would you do?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-25",
-    "question_tagalog": "Sino ang mas maingay matulog, ikaw o ako?",
-    "question_english": "Who is the louder sleeper, you or me?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-26",
-    "question_tagalog": "Kung hindi ka tao, anong gamit ka sa loob ng kwarto mo?",
-    "question_english": "If you weren't human, what object would you be inside your room?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-27",
-    "question_tagalog": "Ano ang naging pinakamasamang gupit ng buhok na pinagdaanan mo?",
-    "question_english": "What was the worst haircut phase you ever went through?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-28",
-    "question_tagalog": "Ano ang pinakamabagal mong natutunan na alam na ng lahat ng bata?",
-    "question_english": "What is the slowest thing you learned that every kid already knew?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-29",
-    "question_tagalog": "Kung ikaw ang tagapili ng aking magiging kasuotan araw-araw, ano ang isusuot ko?",
-    "question_english": "If you were the one to choose my outfit every day, what would I wear?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-30",
-    "question_tagalog": "Saan ka palaging natititisod sa loob ng bahay?",
-    "question_english": "Where do you always trip over inside the house?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-31",
-    "question_tagalog": "Kung ako ay isang karakter ng cartoon, sino ako at bakit?",
-    "question_english": "If I were a cartoon character, who would I be and why?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-32",
-    "question_tagalog": "Ano ang iang bagay na akala mo legal, pero iligal pala?",
-    "question_english": "What is one thing you thought was legal, but turned out to be illegal?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-33",
-    "question_tagalog": "Ano ang paborito mong junk food na maaari mong kainin buong araw?",
-    "question_english": "What is your favorite junk food that you could eat all day?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-34",
-    "question_tagalog": "Ano ang pinakaweird na combination ng pagkain na gusto mo?",
-    "question_english": "What is the weirdest food combination that you actually like?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-35",
-    "question_tagalog": "Ilan ang selfies sa phone mo na pare-pareho lang naman ang mukha?",
-    "question_english": "How many selfies are in your phone where your face looks exactly the same?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-36",
-    "question_tagalog": "Paano mo i-describe ang sarili mo sa tatlong emojis?",
-    "question_english": "How would you describe yourself using three emojis?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-37",
-    "question_tagalog": "Sino ang unang mamatay sa isang zombie apocalypse sa pamilya niyo?",
-    "question_english": "Who would die first in a zombie apocalypse in your family?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-38",
-    "question_tagalog": "Kung ikaw na lang ang natitirang tao sa mundo bukod sa akin, ano ang una nating gagawin?",
-    "question_english": "If you were the only human left on earth besides me, what would we do first?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-39",
-    "question_tagalog": "Sino ang mas malamang umiyak sa isang comedy movie?",
-    "question_english": "Who is more likely to cry at a comedy movie?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-40",
-    "question_tagalog": "Kailan mo naisip na baka inampon ka lang ng pamilya mo?",
-    "question_english": "When did you think that you might just be adopted by your family?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-41",
-    "question_tagalog": "Kaninong mukha ang gusto mong ma-tattoo sa likod mo at bakit?",
-    "question_english": "Whose face would you want tattooed on your back and why?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-42",
-    "question_tagalog": "Anong kanta ang siguradong kinakanta mo kapag nasa banyo ka?",
-    "question_english": "What song do you surely sing when you're in the bathroom?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-43",
-    "question_tagalog": "Kung kailangan nating ibenta ang napakawierd at lumang bagay sa bahay natin, paano mo ita-tagline ito?",
-    "question_english": "If we had to sell an extremely weird and old thing in our house, how would you tagline it?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-44",
-    "question_tagalog": "Naalala mo pa ba yung password sa Friendster o lumang Facebook account mo?",
-    "question_english": "Do you still remember the password to your Friendster or old Facebook account?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-45",
-    "question_tagalog": "Kung ang relationship natin ay isang ulam, ano ito - matamis, maasim, o anghang at bakit?",
-    "question_english": "If our relationship were a dish, what would it be - sweet, sour, or spicy and why?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  },
-  {
-    "id": "fun-46",
-    "question_tagalog": "Kung huling araw mo na sa mundo bukas, uutot ka ba sa isang masikip na elevator para sa kasiyahan?",
-    "question_english": "If it were your last day on earth tomorrow, would you fart in a crowded elevator just for fun?",
-    "quote_tagalog": "\"Ang tawanan natin ang paborito kong musika.\"",
-    "quote_english": "\"Our laughter is my favorite music.\""
-  },
-  {
-    "id": "fun-47",
-    "question_tagalog": "Sino ang mas maraming tinatagong snack sa loob ng kwarto?",
-    "question_english": "Who hides more snacks inside the bedroom?",
-    "quote_tagalog": "\"Ang buhay ay masyadong maiksi para hindi maging baliw paminsan-minsan.\"",
-    "quote_english": "\"Life is too short not to be crazy sometimes.\""
-  },
-  {
-    "id": "fun-48",
-    "question_tagalog": "Ano ang pang-bully na pangalan mo sana noong bata ka?",
-    "question_english": "What would be your bully name when you were a kid?",
-    "quote_tagalog": "\"Sa ngiti mo, nagniningning ang madilim na araw.\"",
-    "quote_english": "\"In your smile, a dark day shines.\""
-  },
-  {
-    "id": "fun-49",
-    "question_tagalog": "Ano ang pinakahabang oras na kaya mong walang cellphone habang nasa banyo?",
-    "question_english": "What is the longest time you can last without a cellphone while in the bathroom?",
-    "quote_tagalog": "\"Kung kaya nating tumawa nang magkasama, kaya nating gawin ang lahat.\"",
-    "quote_english": "\"If we can laugh together, we can do anything.\""
-  },
-  {
-    "id": "fun-50",
-    "question_tagalog": "Satingin mo ba kaya pa nating tumalon sa trampolin na hindi nasasaktan ang likod natin?",
-    "question_english": "Do you think we can still jump on a trampoline without hurting our backs?",
-    "quote_tagalog": "\"Ang kagalakan ay nasa maliliit na lokohan natin.\"",
-    "quote_english": "\"Joy is in our little silly jokes.\""
-  }
+  { "id": 1, "question_tagalog": "Kung magiging aso ka, anong breed mo and bakit?", "question_english": "If you were a dog, what breed would you be and why?", "quote_tagalog": "Kahit anong hayop ka pa, ikaw lang aalagaan ko.", "quote_english": "Whatever animal you are, I'll only take care of you." },
+  { "id": 2, "question_tagalog": "Pano kung may zombie apocalypse, isasama mo ba ko?", "question_english": "If there's a zombie apocalypse, would you bring me with you?", "quote_tagalog": "Ipagtatanggol kita kahit sa zombies pa.", "quote_english": "I'll protect you even from zombies." },
+  { "id": 3, "question_tagalog": "Anong pinakanakakatawang bagay na ginawa mo sa harap ko?", "question_english": "What's the funniest thing you've done in front of me?", "quote_tagalog": "Ang sarap pakinggan ng tawa mo.", "quote_english": "Your laugh is so good to hear." },
+  { "id": 4, "question_tagalog": "Sino satin yung mas mabilis makatulog kahit saang lugar?", "question_english": "Who between us falls asleep faster anywhere?", "quote_tagalog": "Bantayan mo ko kahit tulog ako.", "quote_english": "Watch over me even when I'm asleep." },
+  { "id": 5, "question_tagalog": "Kung naging magnanakaw tayo, anong una nating nanakawin?", "question_english": "If we became thieves, what would we steal first?", "quote_tagalog": "Ninakaw mo na puso ko eh.", "quote_english": "You already stole my heart anyway." },
+  { "id": 6, "question_tagalog": "Sino ang mas malamang na makalimot ng anniversary natin?", "question_english": "Who is more likely to forget our anniversary?", "quote_tagalog": "Basta araw-araw anniversary natin.", "quote_english": "As long as every day is our anniversary." },
+  { "id": 7, "question_tagalog": "Kung mapupunta tayo sa deserted island, anong tatlong bagay dadalhin natin?", "question_english": "If we end up on a deserted island, what three things would we bring?", "quote_tagalog": "Sapat na sakin na andon ka.", "quote_english": "It's enough for me that you're there." },
+  { "id": 8, "question_tagalog": "Sino satin ang mas malakas kumain pag may libre?", "question_english": "Who between us eats more when it's free?", "quote_tagalog": "Libre man o hindi, ikaw pipiliin ko.", "quote_english": "Free or not, I'll choose you." },
+  { "id": 9, "question_tagalog": "Kung magiging meme ako, anong meme yun?", "question_english": "If I were a meme, what meme would I be?", "quote_tagalog": "Ikaw lang nagpapatawa sakin ng ganito.", "quote_english": "Only you make me laugh like this." },
+  { "id": 10, "question_tagalog": "Pano kung naging ipis ako, papatayin mo ba ko?", "question_english": "What if I became a cockroach, would you kill me?", "quote_tagalog": "Hindi, tatabihan pa rin kita matulog.", "quote_english": "No, I'd still sleep beside you." },
+  { "id": 11, "question_tagalog": "Kaya mo bang wag tumawa ng isang buong araw?", "question_english": "Can you handle not laughing for a whole day?", "quote_tagalog": "Ang hirap magseryoso pag kasama ka.", "quote_english": "It's hard to be serious when I'm with you." },
+  { "id": 12, "question_tagalog": "Sino yung unang umiiyak pag nanonood ng sad movie?", "question_english": "Who cries first when watching a sad movie?", "quote_tagalog": "Pupunasan ko palagi luha mo.", "quote_english": "I'll always wipe your tears." },
+  { "id": 13, "question_tagalog": "Pano kung tumaba ako bigla, magbabago ba tingin mo?", "question_english": "What if I suddenly gain weight, will your view change?", "quote_tagalog": "Mas marami lang akong pwedeng yakapin.", "quote_english": "I just have more of you to hug." },
+  { "id": 14, "question_tagalog": "Kung superhero movie tayo, ano ang powers ko?", "question_english": "If we were a superhero movie, what are my powers?", "quote_tagalog": "Power mo yung napapasaya ako instantly.", "quote_english": "Your power is making me happy instantly." },
+  { "id": 15, "question_tagalog": "Sino satin yung sobrang tagal maligo?", "question_english": "Who between us takes too long taking a bath?", "quote_tagalog": "Hihintayin kita kahit gano pa katagal.", "quote_english": "I'll wait for you no matter how long." },
+  { "id": 16, "question_tagalog": "Kung pinanganak tayong kabayo, karera ba tayo araw-araw?", "question_english": "If we were born horses, would we race every day?", "quote_tagalog": "Kahit kabayo tayo, ikaw lang paborito ko.", "quote_english": "Even if we were horses, you're my favorite." },
+  { "id": 17, "question_tagalog": "Kaya mo bang tignan yung mukha ko na naka-pout ng 1 minute?", "question_english": "Can you handle looking at my pouting face for 1 min?", "quote_tagalog": "Wag mo kong hamunin, kikiligin ako.", "quote_english": "Don't challenge me, I'll get butterflies." },
+  { "id": 18, "question_tagalog": "Kung magswi-switch tayo ng katawan for a day, ano unang gagawin mo?", "question_english": "If we switch bodies for a day, what's the first thing you'll do?", "quote_tagalog": "Iba pa rin pag ikaw nasa sarili mong katawan.", "quote_english": "It's still different when you're in your own body." },
+  { "id": 19, "question_tagalog": "Sino satin ang mas malakas mag-overthink pag hatinggabi?", "question_english": "Who overthinks more at midnight?", "quote_tagalog": "Samahan kitang magpuyat gabi-gabi.", "quote_english": "I'll stay up late with you every night." },
+  { "id": 20, "question_tagalog": "Pano kung naging manok ako, ipiprito mo ba ko?", "question_english": "What if I became a chicken, would you fry me?", "quote_tagalog": "Di ko kaya kainin ang love of my life.", "quote_english": "I can't eat the love of my life." },
+  { "id": 21, "question_tagalog": "Kung parehas tayong naligaw, ibablame mo ba ko agad?", "question_english": "If we both get lost, will you blame me instantly?", "quote_tagalog": "Magkasama tayong nawawala, ayos lang.", "quote_english": "We're lost together, it's fine." },
+  { "id": 22, "question_tagalog": "Anong paborito mong kanta ko sa karaoke kahit sintunado?", "question_english": "What's your favorite song of mine in karaoke even if out of tune?", "quote_tagalog": "Kahit asintunado ka, perpekto ka parin sakin.", "quote_english": "Even if you're out of tune, you're still perfect to me." },
+  { "id": 23, "question_tagalog": "Sino mas maarte satin dalawa pagdating sa pagkain?", "question_english": "Who is pickier between us when it comes to food?", "quote_tagalog": "Lahat ng luto mo, masarap para sakin.", "quote_english": "Everything you cook is delicious to me." },
+  { "id": 24, "question_tagalog": "Kaya mo bang pigilan tawa mo pag nagpapatawa ko ng seryoso?", "question_english": "Can you hold your laugh when I try to be funny seriously?", "quote_tagalog": "Mabenta ka sakin kahit corny.", "quote_english": "You still sell to me even if it's corny." },
+  { "id": 25, "question_tagalog": "Saan tayo unang tatakbo pag nagka-alien invasion?", "question_english": "Where will we run first if there's an alien invasion?", "quote_tagalog": "Kahit san tayo pumunta, protektado kita.", "quote_english": "Wherever we go, I'll protect you." },
+  { "id": 26, "question_tagalog": "Pano kung kalbo ako, liligawan mo pa rin ba ako?", "question_english": "What if I were bald, would you still court me?", "quote_tagalog": "Kahit walang buhok, ang ganda mo parin.", "quote_english": "Even without hair, you're still beautiful." },
+  { "id": 27, "question_tagalog": "Kung magsasabunutan tayo ngayon, sino unang iiyak?", "question_english": "If we pull each other's hair now, who will cry first?", "quote_tagalog": "Di ko kayang masaktan ka.", "quote_english": "I can't bear to see you hurt." },
+  { "id": 28, "question_tagalog": "Anong nakakairitang habit ko na secretly cute for you?", "question_english": "What annoying habit of mine is secretly cute for you?", "quote_tagalog": "Pati habit mo mahal ko narin.", "quote_english": "I've come to love your habits too." },
+  { "id": 29, "question_tagalog": "Kung kailangan mong mag-rap para ma-impress ako, anong kanta?", "question_english": "If you had to rap to impress me, what song?", "quote_tagalog": "Gagawin ko lahat mapa-smile lang kita.", "quote_english": "I'll do anything just to make you smile." },
+  { "id": 30, "question_tagalog": "Sino nag-iimbento ng mga weird nicknames satin?", "question_english": "Who invents the weird nicknames between us?", "quote_tagalog": "Kahit anong itawag mo sakin, kikiligin ako.", "quote_english": "Whatever you call me, I'll still get butterflies." },
+  { "id": 31, "question_tagalog": "Kung mananalo tayo sa lotto, anong kalokohan bibilhin natin?", "question_english": "If we win the lottery, what nonsense will we buy?", "quote_tagalog": "Kahit wala ng pera, basta kasama ka.", "quote_english": "Even without money, as long as I have you." },
+  { "id": 32, "question_tagalog": "Sino satin ang mas malakas mag-snore pag pagod na pagod?", "question_english": "Who snores louder between us when exhausted?", "quote_tagalog": "Music to my ears yung hilik mo minsan.", "quote_tagalog": "Your snores are music to my ears sometimes." },
+  { "id": 33, "question_tagalog": "Kung pwede mong i-erase ang isang memory sa utak ko, ano yun?", "question_english": "If you could erase one memory from my mind, what would it be?", "quote_tagalog": "Lahat ng memories natin, treasure sakin.", "quote_english": "All our memories are treasures to me." },
+  { "id": 34, "question_tagalog": "Kung magiging alien ako asawa mo parin ba ako?", "question_english": "If I became an alien, would I still be your spouse?", "quote_tagalog": "Hanggang galaxy, ikaw pa rin.", "quote_english": "Even till the galaxy, it's still you." },
+  { "id": 35, "question_tagalog": "Pano kung amoy sibuyas ako araw-araw, yakap pa rin ba?", "question_english": "What if I smelled like onions every day, still hugging?", "quote_tagalog": "Haharapin ko lahat ng amoy para sayo.", "quote_english": "I'll face any smell just for you." },
+  { "id": 36, "question_tagalog": "Sino mas marami laging picture sa cellphone?", "question_english": "Who always has more pictures on their phone?", "quote_tagalog": "Puno ng mukha mo yung gallery ko.", "quote_english": "My gallery is full of your face." },
+  { "id": 37, "question_tagalog": "Pano kung makalimutan kong pangalan mo, anong itatawag mo sakin?", "question_english": "What if I forget your name, what would you call me?", "quote_tagalog": "Basta alam ng puso ko na ikaw yan.", "quote_english": "As long as my heart knows it's you." },
+  { "id": 38, "question_tagalog": "Kung inimbento ko yung sayaw sa Tiktok, gagawin mo ba with me?", "question_english": "If I invented a dance on Tiktok, would you do it with me?", "quote_tagalog": "Para sayo makiki-uso ako.", "quote_english": "For you, I will ride the trend." },
+  { "id": 39, "question_tagalog": "Sino satin ang mas clumsy maglakad sa patag?", "question_english": "Who is clumsier walking on flat ground?", "quote_tagalog": "Sasaluhin kita palagi pag nahuhulog ka.", "quote_english": "I'll always catch you when you fall." },
+  { "id": 40, "question_tagalog": "Kung naging kamatis ako, kakainin mo ba ko sa salad?", "question_english": "If I became a tomato, would you eat me in a salad?", "quote_tagalog": "Hindi, ipaglalaban ko ang kamatis kong mahal.", "quote_english": "No, I'll fight for my beloved tomato." },
+  { "id": 41, "question_tagalog": "Aminin mo, ilang beses ka tumingin sa salamin today?", "question_english": "Admit it, how many times did you look in the mirror today?", "quote_tagalog": "Gusto ko maging pogi/ganda lagi sa paningin mo.", "quote_english": "I want to always look handsome/beautiful to your eyes." },
+  { "id": 42, "question_tagalog": "Pano kung palagi kong isinisingit pangalan mo sa kanta?", "question_english": "What if I always insert your name in a song?", "quote_tagalog": "Paborito ko naririnig pangalan ko mula sayo.", "quote_english": "My favorite is hearing my name from you." },
+  { "id": 43, "question_tagalog": "Sino ang mas nagmamaganda pag may group picture?", "question_english": "Who acts prettily more in group pictures?", "quote_tagalog": "Wala nang gaganda sayo sa paningin ko.", "quote_english": "Nothing is more beautiful than you in my eyes." },
+  { "id": 44, "question_tagalog": "Kung comedy movie buhay natin, sinong main character?", "question_english": "If our life was a comedy movie, who's the main character?", "quote_tagalog": "Partner in crime forever.", "quote_english": "Partner in crime forever." },
+  { "id": 45, "question_tagalog": "Pano mo ko binubwisit pag bored ka?", "question_english": "How do you annoy me when you're bored?", "quote_tagalog": "Napapasaya mo pa rin ako kahit nabubwisit ako.", "quote_english": "You still make me happy even when I'm annoyed." },
+  { "id": 46, "question_tagalog": "Sino satin laging nakakalimot mag-flush ng toilet?", "question_english": "Who between us always forgets to flush the toilet?", "quote_tagalog": "Kahit medyo burara ka, love parin kita.", "quote_english": "Even if you're a bit messy, I still love you." },
+  { "id": 47, "question_tagalog": "Payag ka bang parehas lang damit natin everyday for a year?", "question_english": "Would you agree wearing the same clothes everyday for a year?", "quote_tagalog": "Kung matching tayo palagi, bakit hindi.", "quote_english": "If we always match, why not." },
+  { "id": 48, "question_tagalog": "Kung ang halik ay pwedeng amoy ulam, anong ulam gusto mo?", "question_english": "If kisses could smell like food, what food would you choose?", "quote_tagalog": "Amoy lechon man yan, iki-kiss pa rin kita.", "quote_english": "Even if it smells like lechon, I'll still kiss you." },
+  { "id": 49, "question_tagalog": "Ano ang reaksyon mo pag umutot ako nang malakas?", "question_english": "What's your reaction when I fart loudly?", "quote_tagalog": "Normal lang yan, tao rin tayo eh.", "quote_english": "That's just normal, we're human too." },
+  { "id": 50, "question_tagalog": "Sino ang laging the 'funny one' sa tropa, ikaw o ako?", "question_english": "Who is always the 'funny one' in the group, you or me?", "quote_tagalog": "Ikaw talaga ang the best comedian ko.", "quote_english": "You're really my best comedian." },
+  { "id": 51, "question_tagalog": "Pano kung asarin kita buong araw, magagalit ka ba talaga?", "question_english": "What if I tease you all day, will you really get mad?", "quote_tagalog": "Hindi kita matiis, ikaw nagpapangiti sakin eh.", "quote_english": "I can't resist you, you make me smile." },
+  { "id": 52, "question_tagalog": "Naranasan mo na ba matawa sakin kahit seryoso ako?", "question_english": "Have you ever laughed at me when I was being serious?", "quote_tagalog": "Cute mo kasing seryosohin.", "quote_english": "It's cute taking you seriously." },
+  { "id": 53, "question_tagalog": "Sino sa atin mas mabilis ma-distract sa TikTok?", "question_english": "Who gets distracted faster on TikTok?", "quote_tagalog": "I-uninstall natin yan, baka mababawasan time mo sakin.", "quote_english": "Let's uninstall that, it might lessen your time for me." },
+  { "id": 54, "question_tagalog": "Kung isasabuhay mo yung emoji na '🤪', kaya mo ba always?", "question_english": "If you embodied the emoji '🤪', could you do it always?", "quote_tagalog": "Ang saya kaya pag puro kalokohan kasama ka.", "quote_english": "It's so fun when it's all goofing around with you." },
+  { "id": 55, "question_tagalog": "Kung may title song yung katangahan mo, anong kanta yun?", "question_english": "If your clumsiness had a title song, what would it be?", "quote_tagalog": "Ako na lang always savior mo.", "quote_english": "I'll just always be your savior." },
+  { "id": 56, "question_tagalog": "Sino mas madalas mag-send ng weird links sa chat?", "question_english": "Who sends weird links more often in chat?", "quote_tagalog": "Lahat ng ise-send mo, iki-click ko parin.", "quote_english": "Everything you send, I'll still click." },
+  { "id": 57, "question_tagalog": "Pano ko ma-pa-panic kung pinalitan ko shampoo mo ng sabong panlaba?", "question_english": "How would you panic if I replaced your shampoo with laundry detergent?", "quote_tagalog": "Ang mahalaga, mabango pa rin ako sayo.", "quote_english": "What's important is I'm still fragrant to you." },
+  { "id": 58, "question_tagalog": "Sino mas marunong humanap ng palusot pag nagkasala?", "question_english": "Who is better at finding excuses when at fault?", "quote_tagalog": "Papatawarin din kita agad kahit ano excuse mo.", "quote_english": "I'll forgive you right away whatever your excuse is." },
+  { "id": 59, "question_tagalog": "Anong joke ko ang napa-isip ka talaga kung tanga ba ako?", "question_english": "Which of my jokes made you really ponder if I'm dumb?", "quote_tagalog": "Tanggap kita kahit corny ka mag-joke.", "quote_english": "I accept you even if your jokes are corny." },
+  { "id": 60, "question_tagalog": "Kung araw-araw tayong nagpeprankhan, sinong susuko?", "question_english": "If we pranks each other every day, who'd give up?", "quote_tagalog": "Hindi ako magsasawa sa mga tawa natin dalawa.", "quote_english": "I'll never get tired of our laughs together." }
 ]

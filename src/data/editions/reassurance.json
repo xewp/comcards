@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question_tagalog": "Sure ka ba na ako lang?",
+    "question_english": "Are you sure it's only me?",
+    "quote_tagalog": "Ikaw lang, wala nang iba.",
+    "quote_english": "Only you, no one else."
+  },
+  {
+    "id": 2,
+    "question_tagalog": "Hindi ka ba nagsasawa sakin?",
+    "question_english": "Don't you get tired of me?",
+    "quote_tagalog": "Di ako magsasawa sayo kahit kailan.",
+    "quote_english": "I'll never get tired of you."
+  },
+  {
+    "id": 3,
+    "question_tagalog": "Anong gagawin mo pag nagtampo ako?",
+    "question_english": "What will you do if I sulk?",
+    "quote_tagalog": "Susuyuin kita palagi.",
+    "quote_english": "I will always win you back."
+  },
+  {
+    "id": 4,
+    "question_tagalog": "Love mo pa rin ba ako kahit ang kulit ko?",
+    "question_english": "Do you still love me even if I'm annoying?",
+    "quote_tagalog": "Mas mahal kita dahil makulit ka.",
+    "quote_english": "I love you more because of your quirks."
+  },
+  {
+    "id": 5,
+    "question_tagalog": "Promise mo ba na di mo ko iiwan?",
+    "question_english": "Do you promise not to leave me?",
+    "quote_tagalog": "Dito lang ako palagi sa tabi mo.",
+    "quote_english": "I will always be right here beside you."
+  },
+  {
+    "id": 6,
+    "question_tagalog": "Pano mo ko papakalmahin pag overthinker mode ako?",
+    "question_english": "How will you calm me down when I overthink?",
+    "quote_tagalog": "Yayakapin kita nang mahigpit.",
+    "quote_english": "I will hug you tight."
+  },
+  {
+    "id": 7,
+    "question_tagalog": "Ano yung pinakagusto mo sa pagiging tayo?",
+    "question_english": "What do you like most about us being together?",
+    "quote_tagalog": "Masaya ako kasi ikaw yung kasama ko.",
+    "quote_english": "I'm happy because I'm with you."
+  },
+  {
+    "id": 8,
+    "question_tagalog": "Pag nag-away tayo, babatiin mo ba ko agad?",
+    "question_english": "If we fight, will you make up with me right away?",
+    "quote_tagalog": "Di ko kayang matiis ka.",
+    "quote_english": "I can't bear to ignore you."
+  },
+  {
+    "id": 9,
+    "question_tagalog": "Tingin mo ba forever na tayo?",
+    "question_english": "Do you think we'll be together forever?",
+    "quote_tagalog": "Ikaw lang yung future na gusto ko.",
+    "quote_english": "You are the only future I want."
+  },
+  {
+    "id": 10,
+    "question_tagalog": "Anong ginagawa ko na nafi-feel mong mahal kita?",
+    "question_english": "What do I do that makes you feel loved?",
+    "quote_tagalog": "Ramdam ko ang love mo sa mga simple effort mo.",
+    "quote_english": "I feel your love in your simple efforts."
+  },
+  {
+    "id": 11,
+    "question_tagalog": "Di ka ba naiinis pag ang clingy ko?",
+    "question_english": "Don't you get annoyed when I'm clingy?",
+    "quote_tagalog": "Gusto kong maging clingy ka sakin.",
+    "quote_english": "I love it when you're clingy with me."
+  },
+  {
+    "id": 12,
+    "question_tagalog": "Pano kung in preparation, pumangit ako, love mo pa rin ba ko?",
+    "question_english": "What if I get ugly, will you still love me?",
+    "quote_tagalog": "Para sakin, ikaw palagi ang pinakamaganda.",
+    "quote_english": "For me, you will always be the most beautiful."
+  },
+  {
+    "id": 13,
+    "question_tagalog": "Anong naiisip mo pag tahimik ako?",
+    "question_english": "What do you think when I'm quiet?",
+    "quote_tagalog": "Gusto lang kitang alagaan pag ganun.",
+    "quote_english": "I just want to take care of you then."
+  },
+  {
+    "id": 14,
+    "question_tagalog": "Gano mo ko kamahal from 1 to 10?",
+    "question_english": "How much do you love me from 1 to 10?",
+    "quote_tagalog": "Lampas sa ten yung love ko sayo.",
+    "quote_english": "My love for you goes beyond ten."
+  },
+  {
+    "id": 15,
+    "question_tagalog": "Pano kita napapasaya pag sad ka?",
+    "question_english": "How do I make you happy when you're sad?",
+    "quote_tagalog": "Makita lang kita, okay na ko.",
+    "quote_english": "Just seeing you makes me okay."
+  },
+  {
+    "id": 16,
+    "question_tagalog": "Sure ka bang ako yung the one mo?",
+    "question_english": "Are you sure I am your 'the one'?",
+    "quote_tagalog": "Ikaw lang ang sagot sa prayers ko.",
+    "quote_english": "You are the only answer to my prayers."
+  },
+  {
+    "id": 17,
+    "question_tagalog": "Anong unang gagawin mo pag nagkita tayo ulit?",
+    "question_english": "What's the first thing you'll do when we see each other again?",
+    "quote_tagalog": "Miss na miss na kita.",
+    "quote_english": "I miss you so much."
+  },
+  {
+    "id": 18,
+    "question_tagalog": "Anong word yung makakapag-describe sakin for you?",
+    "question_english": "What word describes me for you?",
+    "quote_tagalog": "Ikaw ang pinakamagandang blessing ko.",
+    "quote_english": "You are my greatest blessing."
+  },
+  {
+    "id": 19,
+    "question_tagalog": "Ano yung pinaka-na-appreciate mo na ginawa ko today?",
+    "question_english": "What did you appreciate most that I did today?",
+    "quote_tagalog": "Thankful ako sayo every single day.",
+    "quote_english": "I am thankful for you every single day."
+  },
+  {
+    "id": 20,
+    "question_tagalog": "Pano mo pinapakita na proud ka na ako yung partner mo?",
+    "question_english": "How do you show you're proud to have me as your partner?",
+    "quote_tagalog": "Ipinagmamalaki ko sa lahat na akin ka.",
+    "quote_english": "I proudly tell everyone that you are mine."
+  },
+  {
+    "id": 21,
+    "question_tagalog": "Love mo ba ko kahit madalas akong topakin?",
+    "question_english": "Do you love me even if I often have mood swings?",
+    "quote_tagalog": "Tanggap ko lahat sayo, pati sumpong mo.",
+    "quote_english": "I accept everything about you, even your mood swings."
+  },
+  {
+    "id": 22,
+    "question_tagalog": "Pano mo kino-comfort yung sarili mo pag miss mo ko?",
+    "question_english": "How do you comfort yourself when you miss me?",
+    "quote_tagalog": "Tinitingnan ko picture natin pag miss kita.",
+    "quote_english": "I look at our pictures when I miss you."
+  },
+  {
+    "id": 23,
+    "question_tagalog": "Ano yung paborito mong part ng araw natin together?",
+    "question_english": "What's your favorite part of our day together?",
+    "quote_tagalog": "Favorite ko lahat ng oras na kasama kita.",
+    "quote_english": "My favorite is all the time I spend with you."
+  },
+  {
+    "id": 24,
+    "question_tagalog": "Minsan ba naisip mong give up na lang?",
+    "question_english": "Have you ever thought of giving up?",
+    "quote_tagalog": "Hinding-hindi ko bibitawan yung kamay mo.",
+    "quote_english": "I will never let go of your hand."
+  },
+  {
+    "id": 25,
+    "question_tagalog": "Kung may babaguhin ka sakin, ano yun?",
+    "question_english": "If you could change something about me, what would it be?",
+    "quote_tagalog": "Perfect ka na para sakin, wag ka na magbago.",
+    "quote_english": "You are already perfect to me, don't change."
+  },
+  {
+    "id": 26,
+    "question_tagalog": "Natatakot ka bang mawala ako?",
+    "question_english": "Are you afraid of losing me?",
+    "quote_tagalog": "Ikaw lang yung gusto kong makasama habang buhay.",
+    "quote_english": "You are the only one I want to be with."
+  },
+  {
+    "id": 27,
+    "question_tagalog": "Ano yung nagpapatibay satin aside sa love?",
+    "question_english": "What makes us strong besides love?",
+    "quote_tagalog": "Mag-bestfriend din tayo eh.",
+    "quote_english": "We are best friends too."
+  },
+  {
+    "id": 28,
+    "question_tagalog": "Pano mo alam na genuine yung feelings natin sa isa't isa?",
+    "question_english": "How do you know our feelings are genuine?",
+    "quote_tagalog": "Ramdam ko sa mga tingin mo sakin.",
+    "quote_english": "I feel it in the way you look at me."
+  },
+  {
+    "id": 29,
+    "question_tagalog": "Pag naging busy tayo, papansinin mo pa rin ba ko?",
+    "question_english": "When we get busy, will you still give me attention?",
+    "quote_tagalog": "Gagawan ko palagi ng time para sayo.",
+    "quote_english": "I will always make time for you."
+  },
+  {
+    "id": 30,
+    "question_tagalog": "Anong reassurance ang gusto mong marinig sakin lagi?",
+    "question_english": "What reassurance do you always want to hear from me?",
+    "quote_tagalog": "Gusto kong lagi mong sinasabi na mahal mo ko.",
+    "quote_english": "I want you to always say you love me."
+  },
+  {
+    "id": 31,
+    "question_tagalog": "Kailan mo nararamdamang safe ka sakin?",
+    "question_english": "When do you feel safe with me?",
+    "quote_tagalog": "Ikaw yung safe place ko.",
+    "quote_english": "You are my safe place."
+  },
+  {
+    "id": 32,
+    "question_tagalog": "Ano yung unang reason bakit ka nag-stay sakin?",
+    "question_english": "What's the main reason you stayed with me?",
+    "quote_tagalog": "Iba ka sa lahat ng nakilala ko.",
+    "quote_english": "You are different from everyone I've met."
+  },
+  {
+    "id": 33,
+    "question_tagalog": "Naniniwala ka bang mag-work out talaga tayo in the end?",
+    "question_english": "Do you believe we will really work out in the end?",
+    "quote_tagalog": "Lalaban tayo nang sabay kaya magwo-work 'to.",
+    "quote_english": "We will fight together so this will work."
+  },
+  {
+    "id": 34,
+    "question_tagalog": "Pano mo ha-handle pag may time na cold ako?",
+    "question_english": "How will you handle it when there are times I'm cold?",
+    "quote_tagalog": "Paiinitin natin ulit yung love natin.",
+    "quote_english": "We will warm up our love again."
+  },
+  {
+    "id": 35,
+    "question_tagalog": "Anong sweet message yung di mo makalimutan from me?",
+    "question_english": "What sweet message of mine can't you forget?",
+    "quote_tagalog": "Palagi kong binabasa yung mga lumang chats natin.",
+    "quote_english": "I always read our old chats."
+  },
+  {
+    "id": 36,
+    "question_tagalog": "Ano yung pinaka tina-treasure mong binigay ko sayo?",
+    "question_english": "What's the most treasured thing I gave you?",
+    "quote_tagalog": "Yung love mo ang the best gift of all.",
+    "quote_english": "Your love is the best gift of all."
+  },
+  {
+    "id": 37,
+    "question_tagalog": "Ano yung palagi mong pinapagpray for us?",
+    "question_english": "What do you always pray for us?",
+    "quote_tagalog": "Pinagdadasal ko na sana tayo na hanggang dulo.",
+    "quote_english": "I pray that we stay together until the end."
+  },
+  {
+    "id": 38,
+    "question_tagalog": "Bakit ako yung pinili mong mahalin?",
+    "question_english": "Why did you choose to love me?",
+    "quote_tagalog": "Nahanap ko sayo yung matagal ko nang hinahanap.",
+    "quote_english": "I found in you what I've been looking for."
+  },
+  {
+    "id": 39,
+    "question_tagalog": "Ano yung palagi mong naiisip randomly pag bored ka?",
+    "question_english": "What do you always randomly think about when bored?",
+    "quote_tagalog": "Ikaw agad nasa isip ko pag bakante ako.",
+    "quote_english": "You're instantly on my mind when I'm free."
+  },
+  {
+    "id": 40,
+    "question_tagalog": "Kung may doubt ako ngayon sakin, anong sasabihin mo?",
+    "question_english": "If I have doubts about myself now, what would you say?",
+    "quote_tagalog": "Wag kang mag-doubt, andito ako para support sayo.",
+    "quote_english": "Don't doubt yourself, I'm here to support you."
+  },
+  {
+    "id": 41,
+    "question_tagalog": "Pano mo idi-deal pag na-burnout ako?",
+    "question_english": "How will you deal with it when I get burnt out?",
+    "quote_tagalog": "Magpapahinga tayo together.",
+    "quote_english": "We will rest together."
+  },
+  {
+    "id": 42,
+    "question_tagalog": "Ano yung naging paboritong habit mo dahil sakin?",
+    "question_english": "What became your favorite habit because of me?",
+    "quote_tagalog": "Napapangiti mo ko kahit wala lang.",
+    "quote_english": "You make me smile even over nothing."
+  },
+  {
+    "id": 43,
+    "question_tagalog": "Pano mo ba naaalagaan yung kilig natin para di mawala?",
+    "question_english": "How do you maintain our sparks so they don't fade?",
+    "quote_tagalog": "Kikiligin ako sayo araw-araw.",
+    "quote_english": "I will have butterflies for you every day."
+  },
+  {
+    "id": 44,
+    "question_tagalog": "Kung iiwan kita sa bahay mag-isa, ano unang gagawin mo?",
+    "question_english": "If I leave you home alone, what's the first thing you'll do?",
+    "quote_tagalog": "Tatawagan agad kita kasi miss kita.",
+    "quote_english": "I will call you right away because I miss you."
+  },
+  {
+    "id": 45,
+    "question_tagalog": "Nagseselos ka ba kahit walang reason minsan?",
+    "question_english": "Do you get jealous sometimes even without a reason?",
+    "quote_tagalog": "Normal lang yun kasi love kita.",
+    "quote_english": "That's just normal because I love you."
+  },
+  {
+    "id": 46,
+    "question_tagalog": "Pano mo naha-handle yung topak ko madaling araw?",
+    "question_english": "How do you handle my moods in the middle of the night?",
+    "quote_tagalog": "Kahit inaantok, sasamahan kita.",
+    "quote_english": "Even if I'm sleepy, I'll stay with you."
+  },
+  {
+    "id": 47,
+    "question_tagalog": "Ano yung kanta na eksaktong-eksakto sa feeling mo sakin ngayon?",
+    "question_english": "What song exactly matches your feeling for me right now?",
+    "quote_tagalog": "Kanta natin ang theme song ng buhay ko.",
+    "quote_english": "Our song is the theme of my life."
+  },
+  {
+    "id": 48,
+    "question_tagalog": "Nag-iiba ba tingin mo sakin pag hindi ako nakapag-ayos?",
+    "question_english": "Do you look at me differently when I'm not dressed up?",
+    "quote_tagalog": "Kahit bagong gising ka, ang cute mo pa rin.",
+    "quote_english": "Even just waking up, you're still cute."
+  },
+  {
+    "id": 49,
+    "question_tagalog": "Kung 1 day bawal tayong mag-usap, pano mo ko mamimiss?",
+    "question_english": "If we couldn't talk for 1 day, how would you miss me?",
+    "quote_tagalog": "Bibigat ang araw ko pag wala ka.",
+    "quote_english": "My day feels heavy without you."
+  },
+  {
+    "id": 50,
+    "question_tagalog": "Anong nagpapangiti sayo pag bad day ka sa work/school?",
+    "question_english": "What makes you smile when you have a bad day at work/school?",
+    "quote_tagalog": "Yakap mo yung paborito kong pahinga.",
+    "quote_english": "Your hug is my favorite rest."
+  },
+  {
+    "id": 51,
+    "question_tagalog": "Pano pag naging sobrang clingy ako sayo forever?",
+    "question_english": "What if I become super clingy to you forever?",
+    "quote_tagalog": "Gusto ko yung feeling na kailangan mo ko.",
+    "quote_english": "I love the feeling that you need me."
+  },
+  {
+    "id": 52,
+    "question_tagalog": "Anong paboritong part mong hawakan sa kamay ko?",
+    "question_english": "What's your favorite part to hold on my hand?",
+    "quote_tagalog": "Sakto yung kamay mo sa kamay ko.",
+    "quote_english": "Your hand fits perfectly in mine."
+  },
+  {
+    "id": 53,
+    "question_tagalog": "Pano mo mapapagaan feeling ko pag nag-failed ako sa isang bagay?",
+    "question_english": "How will you make me feel better when I fail at something?",
+    "quote_tagalog": "Dito lang ako, susubok tayo ulit.",
+    "quote_english": "I'm right here, we'll try again."
+  },
+  {
+    "id": 54,
+    "question_tagalog": "Sigurado ka na ba talaga hanggang sa future natin?",
+    "question_english": "Are you really sure about our future?",
+    "quote_tagalog": "Wala na kong ibang nakikita kundi ikaw.",
+    "quote_english": "I see no one else but you."
+  },
+  {
+    "id": 55,
+    "question_tagalog": "Ano yung gusto mong madalas kong i-remind sayo?",
+    "question_english": "What do you want me to remind you of often?",
+    "quote_tagalog": "I-remind mo lang na love mo ko lagi.",
+    "quote_english": "Just remind me that you always love me."
+  },
+  {
+    "id": 56,
+    "question_tagalog": "Pag ba nahihirapan tayo parehas, susuko na?",
+    "question_english": "If we both struggle, do we give up?",
+    "quote_tagalog": "Mas kapit tayo pag mahirap.",
+    "quote_english": "We hold on tighter when it's hard."
+  },
+  {
+    "id": 57,
+    "question_tagalog": "Ano yung best advice mo pag feeling ko I'm not doing enough?",
+    "question_english": "What's your best advice when I feel I'm not doing enough?",
+    "quote_tagalog": "Sapat ka na sakin, sobra-sobra pa.",
+    "quote_english": "You are enough for me, more than enough."
+  },
+  {
+    "id": 58,
+    "question_tagalog": "Pano mo mapapaalala na special ako kahit busy ka?",
+    "question_english": "How will you remind me I'm special even when you're busy?",
+    "quote_tagalog": "Ikaw palagi yung priority ko.",
+    "quote_english": "You are always my priority."
+  },
+  {
+    "id": 59,
+    "question_tagalog": "Mag-sstay ka ba kahit minsan ang hirap kong intindihin?",
+    "question_english": "Will you stay even if I'm sometimes hard to understand?",
+    "quote_tagalog": "Iintindihin kita araw-araw.",
+    "quote_english": "I will try to understand you every single day."
+  },
+  {
+    "id": 60,
+    "question_tagalog": "Lastly, anong message mo sakin for reassurance ngayon na?",
+    "question_english": "Lastly, what's your reassurance message for me right now?",
+    "quote_tagalog": "Mahal kita noon, ngayon, at bukas.",
+    "quote_english": "I love you yesterday, today, and tomorrow."
+  }
+]

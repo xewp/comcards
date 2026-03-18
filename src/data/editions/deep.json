@@ -1,352 +1,62 @@
 [
-  {
-    "id": "deep-1",
-    "question_tagalog": "Ano ang isang pangarap na binitiwan mo na para sa iba?",
-    "question_english": "What is one dream you had to give up for someone else?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-2",
-    "question_tagalog": "Kailan ka huling umiyak nang mag-isa at bakit?",
-    "question_english": "When was the last time you cried alone and why?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-3",
-    "question_tagalog": "Ano ang pinakamasakit na salitang narinig mo na mula sa isang taong mahal mo?",
-    "question_english": "What is the most hurtful word you've heard from someone you love?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-4",
-    "question_tagalog": "Paano mo naiiba ang iyong sarili ngayon kumpara noong una tayong magkita?",
-    "question_english": "How are you different now compared to when we first met?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-5",
-    "question_tagalog": "Ano ang pinakamalaking takot mo sa pagtanda?",
-    "question_english": "What is your biggest fear about growing old?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-6",
-    "question_tagalog": "Kung may isang bagay na pinagsisisihan mo sa ating relasyon, ano iyon?",
-    "question_english": "If there is one thing you regret in our relationship, what is it?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-7",
-    "question_tagalog": "Saang bahagi ng buhay mo naramdaman mong pinakanag-iisa ka?",
-    "question_english": "In what part of your life did you feel the most alone?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-8",
-    "question_tagalog": "Ano ang palagi mong tinatago sa akin para maprotektahan ako?",
-    "question_english": "What do you always hide from me to protect me?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-9",
-    "question_tagalog": "Kailan ka pinakanasaktan ngunit pinili mong ngumiti na lang?",
-    "question_english": "When were you hurt the most but chose to just smile?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-10",
-    "question_tagalog": "Paano mo gustong maalala ka pagkatapos mong lumisan sa mundong ito?",
-    "question_english": "How do you want to be remembered after you leave this world?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-11",
-    "question_tagalog": "Ano ang isang pagkakamali sa nakaraan na hindi mo mapatawad ang iyong sarili?",
-    "question_english": "What is one mistake from the past you can't forgive yourself for?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-12",
-    "question_tagalog": "Ano ang ibig sabihin ng tunay na pagpapatawad para sa iyo?",
-    "question_english": "What does true forgiveness mean to you?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-13",
-    "question_tagalog": "Ano ang isang bahagi ng pagkatao mo na kinasusuklaman mo minsan?",
-    "question_english": "What is one part of your personality that you sometimes hate?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-14",
-    "question_tagalog": "Paano mo hinaharap ang matinding galit o pagkabigo?",
-    "question_english": "How do you handle intense anger or disappointment?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-15",
-    "question_tagalog": "Kailan ka huling naramdaman na hindi ka sapat?",
-    "question_english": "When was the last time you felt you weren't enough?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-16",
-    "question_tagalog": "Ano ang pinakamahirap na desisyong ginawa mo na walang nakakaalam?",
-    "question_english": "What is the hardest decision you made that no one knows about?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-17",
-    "question_tagalog": "Kung maaari kang humingi ng tawad sa isang tao mula sa iyong nakaraan, sino iyon at bakit?",
-    "question_english": "If you could apologize to one person from your past, who would it be and why?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-18",
-    "question_tagalog": "Paano mo ilalarawan ang pakiramdam ng kalungkutan?",
-    "question_english": "How would you describe the feeling of loneliness?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-19",
-    "question_tagalog": "Ano ang isang pangako na binitiwan mo ngunit hindi mo natupad?",
-    "question_english": "What is one promise you made but couldn't keep?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-20",
-    "question_tagalog": "Sino ang unang nagturo sa iyo kung paano magmahal, at paano nila ito ginawa?",
-    "question_english": "Who first taught you how to love, and how did they do it?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-21",
-    "question_tagalog": "Ano ang pinakamahirap na katotohanan na natutunan mo tungkol sa akin?",
-    "question_english": "What is the hardest truth you've learned about me?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-22",
-    "question_tagalog": "Kailan ka unang nakaramdam na ligtas kang maging bukas sa akin?",
-    "question_english": "When did you first feel safe to be completely open with me?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-23",
-    "question_tagalog": "Ano ang pinakamalaking sakripisyong ginawa mo para sa ating pagmamahalan?",
-    "question_english": "What is the biggest sacrifice you've made for our love?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-24",
-    "question_tagalog": "Ano ang isang inaasahan mo sa akin na unti-unti mong binitawan?",
-    "question_english": "What is an expectation of me that you slowly let go of?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-25",
-    "question_tagalog": "Sa anong pagkakataon mo ako pinakahinangaan?",
-    "question_english": "In what moment did you admire me the most?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-26",
-    "question_tagalog": "Ano ang nararamdaman mo tuwing hindi tayo nagkakaintindihan?",
-    "question_english": "What do you feel every time we misunderstand each other?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-27",
-    "question_tagalog": "Paano mo nakikita ang epekto ng iyong pagkabata sa relasyon natin?",
-    "question_english": "How do you see the impact of your childhood on our relationship?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-28",
-    "question_tagalog": "Ano ang isang memorya natin na nagbigay sa iyo ng pag-asa noong gusto mo nang sumuko?",
-    "question_english": "What is one memory of us that gave you hope when you wanted to give up?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-29",
-    "question_tagalog": "Kailan mo nalamang kaya mong ibigay ang buong tiwala mo sa akin?",
-    "question_english": "When did you realize you could give me your full trust?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-30",
-    "question_tagalog": "Paano natin mas mapapatibay ang ating pundasyon kapag may unos sa ating buhay?",
-    "question_english": "How can we strengthen our foundation when there's a storm in our lives?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-31",
-    "question_tagalog": "Ano ang pangarap mong naiwala mo nang dahil sa hirap ng buhay?",
-    "question_english": "What dream did you lose because of the hardships of life?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-32",
-    "question_tagalog": "Kailan mo huling naramdaman na pinabayaan ka ng mundo?",
-    "question_english": "When was the last time you felt abandoned by the world?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-33",
-    "question_tagalog": "Ano ang kwento sa likod ng pinakamalaking peklat (pisikal man o emosyonal) mo?",
-    "question_english": "What is the story behind your biggest scar (physical or emotional)?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-34",
-    "question_tagalog": "Paano mo binubuo uli ang iyong sarili kapag pakiramdam mo'y nawasak ka?",
-    "question_english": "How do you rebuild yourself when you feel broken?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-35",
-    "question_tagalog": "Ano ang isang luha na itinago mo sa pamilya mo?",
-    "question_english": "What is one tear you hid from your family?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-36",
-    "question_tagalog": "Paano mo inililigtas ang iyong sarili mula sa matitinding takot?",
-    "question_english": "How do you save yourself from intense fears?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-37",
-    "question_tagalog": "Ano ang tingin mong pinakamahalagang aral na idinulot sa iyo ng kalungkutan?",
-    "question_english": "What do you think is the most important lesson sadness brought you?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-38",
-    "question_tagalog": "Kung may pagkakataon kang simulan ulit ang buhay mo, ano ang una mong babaguhin?",
-    "question_english": "If you had the chance to start your life over, what would you change first?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-39",
-    "question_tagalog": "Paano mo natatanggap ang mga bagyo o hamon bilang bahagi ng iyong pag-iral?",
-    "question_english": "How do you accept storms or challenges as part of your existence?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-40",
-    "question_tagalog": "Ano ang pinakamabigat na sikreto na dinala mo nang matagal?",
-    "question_english": "What is the heaviest secret you've carried for a long time?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-41",
-    "question_tagalog": "Mahal mo ba talaga ang iyong sarili, o natutunan mo lang tanggapin?",
-    "question_english": "Do you really love yourself, or did you just learn to accept it?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-42",
-    "question_tagalog": "Paano mo pinalalakas ang loob mo noong mga panahong walang naniniwala sa iyo?",
-    "question_english": "How did you encourage yourself during times when no one believed in you?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-43",
-    "question_tagalog": "Kailan ka naging pinakamatapang sa buhay mo?",
-    "question_english": "When were you the bravest in your life?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-44",
-    "question_tagalog": "Ano ang isang sandali na naramdaman mong buhay na buhay ka talaga?",
-    "question_english": "What is one moment when you felt truly, fiercely alive?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-45",
-    "question_tagalog": "Kung ang kaluluwa mo ay may kulay ngayon, ano iyon at bakit?",
-    "question_english": "If your soul had a color right now, what would it be and why?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  },
-  {
-    "id": "deep-46",
-    "question_tagalog": "Paano mo pinatatawad ang isang taong hindi man lang humingi ng tawad?",
-    "question_english": "How do you forgive someone who never even apologized?",
-    "quote_tagalog": "\"Ang mga sugat ay nagpapalalim ng ating kakayahang magmahal.\"",
-    "quote_english": "\"Wounds deepen our capacity to love.\""
-  },
-  {
-    "id": "deep-47",
-    "question_tagalog": "Ano ang ibig sabihin sa iyo ng kapayapaan sa isip?",
-    "question_english": "What does peace of mind mean to you?",
-    "quote_tagalog": "\"Sa katahimikan natin madalas natatagpuan ang mga sagot.\"",
-    "quote_english": "\"In silence, we often find the answers.\""
-  },
-  {
-    "id": "deep-48",
-    "question_tagalog": "Ano ang isa mong pananaw o paniniwala na malaking nagbago sa nakalipas na limang taon?",
-    "question_english": "What is one perspective or belief you have that drastically changed in the last five years?",
-    "quote_tagalog": "\"Ang tunay na katapangan ay ang pagpapakita ng ating mga kahinaan.\"",
-    "quote_english": "\"True courage is showing our vulnerabilities.\""
-  },
-  {
-    "id": "deep-49",
-    "question_tagalog": "Ano ang inaasahan mo sakaling matapos man ang lahat ng ito?",
-    "question_english": "What do you expect should all of this come to an end?",
-    "quote_tagalog": "\"Minsan ang pinakamalakas na boses ay ang isang luha na walang tunog.\"",
-    "quote_english": "\"Sometimes the loudest voice is a silent tear.\""
-  },
-  {
-    "id": "deep-50",
-    "question_tagalog": "Kung may isang katanungan ka sa Diyos o sa uniberso, ano ito?",
-    "question_english": "If you had one question for God or the universe, what would it be?",
-    "quote_tagalog": "\"Ang mga peklat ay nagpapaalala na mas malakas tayo kaysa doon sa nagtangkang sumira sa atin.\"",
-    "quote_english": "\"Scars remind us that we are stronger than what tried to break us.\""
-  }
+  { "id": 1, "question_tagalog": "Ano ang pinaka-deepest regret mo sa buhay prior sakin?", "question_english": "What is your deepest regret in life prior to me?", "quote_tagalog": "Wala nang babalikan sa nakaraan.", "quote_english": "No more looking back at the past." },
+  { "id": 2, "question_tagalog": "Sa tingin mo ba, may specific purpose tayo kaya tayo nagtagpo?", "question_english": "Do you think we have a specific purpose why we met?", "quote_tagalog": "Tadhana ang naglapit sa ating dalawa.", "quote_english": "Destiny brought the two of us together." },
+  { "id": 3, "question_tagalog": "Ano yung bigat sa puso mo na gusto mo kong tulungan magbuhat?", "question_english": "What heaviness in your heart do you want me to help carry?", "quote_tagalog": "Andito ako para gumaan ang buhay mo.", "quote_english": "I'm here to lighten your life." },
+  { "id": 4, "question_tagalog": "Kailan mo naramdamang you are enough bilang asawa/partner ko?", "question_english": "When did you feel you are enough as my spouse/partner?", "quote_tagalog": "Palagi kang sapat para sakin.", "quote_english": "You are always enough for me." },
+  { "id": 5, "question_tagalog": "Pag namatay tayo, pano mo gusto maalala natin ang isa't isa?", "question_english": "When we die, how do you want us to remember each other?", "quote_tagalog": "Dalhin natin pag-ibig sa kabilang buhay.", "quote_english": "Let's carry love to the afterlife." },
+  { "id": 6, "question_tagalog": "Pano natin mape-prevent yung mga failures ng past relationships natin?", "question_english": "How can we prevent the failures of our past relationships?", "quote_tagalog": "Ikaw lang ang huling pag-ibig ko.", "quote_english": "You are my only last love." },
+  { "id": 7, "question_tagalog": "Kailan ka naging pinaka-honest sakin?", "question_english": "When were you the most honest with me?", "quote_tagalog": "Bukas ako sayo sa lahat ng bagay.", "quote_english": "I am open to you about everything." },
+  { "id": 8, "question_tagalog": "Ano yung pinaka-lesson ng buhay na itinuro sayo ng pag-ibig natin?", "question_english": "What's the deepest life lesson our love taught you?", "quote_tagalog": "Love heals everything genuinely.", "quote_english": "Love heals everything genuinely." },
+  { "id": 9, "question_tagalog": "Bakit nahihirapan ang ibang tao magkatiwala samantalang tayo, buo kagad?", "question_english": "Why do others struggle to trust while we gave it wholly instantly?", "quote_tagalog": "Safe environment tayo sa isa't isa.", "quote_english": "We are a safe environment for each other." },
+  { "id": 10, "question_tagalog": "Ano ang pain point mo tuwing nag-aaway tayo nang malala?", "question_english": "What is your pain point whenever we argue intensely?", "quote_tagalog": "Kahit nagagalit ako, mas mahal kita.", "quote_english": "Even when mad, I love you more." },
+  { "id": 11, "question_tagalog": "Para sayo, anong definition ng successful relationship?", "question_english": "For you, what is the definition of a successful relationship?", "quote_tagalog": "Pagtanda ng magkasama at masaya.", "quote_english": "Growing old together happily." },
+  { "id": 12, "question_tagalog": "Pano ko binago yung mindset mo regarding sa trust?", "question_english": "How did I change your mindset regarding trust?", "quote_tagalog": "Sayong-sayo buong tiwala ko.", "quote_english": "My complete trust is entirely yours." },
+  { "id": 13, "question_tagalog": "Pano mo i-describe yung 'peace' na dala ng presence ko sayo?", "question_english": "How do you describe the 'peace' my presence brings you?", "quote_tagalog": "Ikaw yung payapang mundo ko.", "quote_english": "You are my peaceful world." },
+  { "id": 14, "question_tagalog": "Ano yung truth na natatakot kang idiscuss dahil sakin?", "question_english": "What is a truth you're scared to discuss because of me?", "quote_tagalog": "Wag kang matakot sakin, ako lang 'to.", "quote_english": "Don't be afraid of me, it's just me." },
+  { "id": 15, "question_tagalog": "Naniniwala ka bang pwedeng mamatay ang love kung hindi inaalagaan?", "question_english": "Do you believe love can die if not taken care of?", "quote_tagalog": "Araw-araw nating didiligan ang pag-ibig.", "quote_english": "We will water our love every day." },
+  { "id": 16, "question_tagalog": "Bakit sa tagal natin, andito pa rin tayong dalawa matatag?", "question_english": "Why after so long, are we still here standing strong?", "quote_tagalog": "Piliin natin isa't isa kahit araw-araw.", "quote_english": "Let's choose each other every single day." },
+  { "id": 17, "question_tagalog": "Anong character trait ko ang nagbigay sayo ng hope sa humanity?", "question_english": "What character trait of mine gave you hope in humanity?", "quote_tagalog": "Mabuti kang tao, kaya andito ako.", "quote_english": "You're a good person, that's why I'm here." },
+  { "id": 18, "question_tagalog": "May part ba sakin na sa tingin mo hindi kailanman magbabago?", "question_english": "Is there a part of me you think will never change?", "quote_tagalog": "Puso mo lang hindi magbabago sakin.", "quote_english": "Only your heart will never change towards me." },
+  { "id": 19, "question_tagalog": "Pano mo na-oovercome yung pride mo during our worst fights?", "question_english": "How do you overcome your pride during our worst fights?", "quote_tagalog": "Mas mahalaga ka kaysa sa pride ko.", "quote_english": "You are more important than my pride." },
+  { "id": 20, "question_tagalog": "Ano yung madalas mong panalangin para sa buhay natin ten years from now?", "question_english": "What do you often pray for our lives ten years from now?", "quote_tagalog": "Gusto ko magkasama parin tayo araw-araw.", "quote_english": "I want us to still be together every day." },
+  { "id": 21, "question_tagalog": "Para sayo, anong pinaka masakit na paraan para iwan ka ng tao?", "question_english": "For you, what's the most painful way for someone to leave you?", "quote_tagalog": "Mamamatay ako pag iniwan mo ko.", "quote_english": "I'll die if you leave me." },
+  { "id": 22, "question_tagalog": "Pano mo tinuruan isip mo na tanggapin yung mali at tama sakin?", "question_english": "How did you teach your mind to accept my right and wrongs?", "quote_tagalog": "Tanggap kita buong-buo.", "quote_english": "I accept you entirely." },
+  { "id": 23, "question_tagalog": "Kung maikli ang oras natin, ano ang the most meaningful thing na naiwan natin?", "question_english": "If our time is short, what's the most meaningful thing we left behind?", "quote_tagalog": "Maiiwang masaya lahat ng alaala natin.", "quote_english": "All our memories left behind will be happy." },
+  { "id": 24, "question_tagalog": "Anong word ang maglalarawan sa connection ng mga kaluluwa natin?", "question_english": "What word perfectly describes the connection of our souls?", "quote_tagalog": "Tayo lang para sa isa't isa.", "quote_english": "We are only for each other." },
+  { "id": 25, "question_tagalog": "Naniniwala ka ba na we make our own destiny or destined na tayo before time?", "question_english": "Do you believe we make our own destiny or we were destined before time?", "quote_tagalog": "Nakasulat na sa mga tala ang pagkikita natin.", "quote_english": "Our meeting was written in the stars." },
+  { "id": 26, "question_tagalog": "Ano ang the hardest sacrifice you did para sakin?", "question_english": "What is the hardest sacrifice you did for me?", "quote_tagalog": "Lahat gagawin ko para sayo.", "quote_english": "I will do everything for you." },
+  { "id": 27, "question_tagalog": "Pano mo ina-align ang dreams mo sa dreams ko?", "question_english": "How do you align your dreams with my dreams?", "quote_tagalog": "Isang pangarap lang tayong dalawa.", "quote_english": "Our dreams have become one." },
+  { "id": 28, "question_tagalog": "Saan ka nakakakuha ng assurance pag ang tahimik natin?", "question_english": "Where do you get assurance when we are quiet?", "quote_tagalog": "Sapat sakin pakiramdam ng presence mo.", "quote_english": "The feeling of your presence is enough for me." },
+  { "id": 29, "question_tagalog": "Pano mo i-describe yung growth ko simula nung naging tayo?", "question_english": "How do you describe my growth since we became together?", "quote_tagalog": "Sabay tayong naging better person.", "quote_english": "We became better persons together." },
+  { "id": 30, "question_tagalog": "Pano natin matuturuan magpatawad ang isa't isa without holding grudges?", "question_english": "How do we teach each other to forgive without holding grudges?", "quote_tagalog": "Puso ko ay puno ng pang-unawa para sayo.", "quote_english": "My heart is full of understanding for you." },
+  { "id": 31, "question_tagalog": "Anong pinagdadaanan ko na feeling mo kailangan kitang tulungan constantly?", "question_english": "What am I going through that you feel you need to help me with constantly?", "quote_tagalog": "Sasalo ako palagi ng bigat mo.", "quote_english": "I will always catch your burdens." },
+  { "id": 32, "question_tagalog": "Kung may reinkarnasyon, pano tayo maghahanapan?", "question_english": "If reincarnation exists, how will we find each other?", "quote_tagalog": "Hahanapin ka ng kaluluwa ko kahit saan.", "quote_english": "My soul will search for you everywhere." },
+  { "id": 33, "question_tagalog": "Bakit sa dami ng tao sa paligid natin, ako ang pinili mong sandalan?", "question_english": "Why amidst so many people, did you choose to lean on me?", "quote_tagalog": "Ikaw lang pahinga ng isip ko.", "quote_english": "You are my mind's only rest." },
+  { "id": 34, "question_tagalog": "Pano minsan binabasag ng logic yung emotions natin in a fight?", "question_english": "How does logic sometimes shatter our emotions in a fight?", "quote_tagalog": "Love natin lalawig kahit magulong logic.", "quote_english": "Our love persists despite confused logic." },
+  { "id": 35, "question_tagalog": "Iniisip mo ba na may limitation ang pag-ibig ko sayo?", "question_english": "Do you think my love for you has limitations?", "quote_tagalog": "Wag mo limitahan ang love mo sakin.", "quote_english": "Don't limit your love for me." },
+  { "id": 36, "question_tagalog": "Ano yung the deepest joy you felt dahil lang nakasama kita saglit?", "question_english": "What's the deepest joy you felt just by being with me for a while?", "quote_tagalog": "Minsan yakap lang buo na ko.", "quote_english": "Sometimes just a hug makes me whole." },
+  { "id": 37, "question_tagalog": "Pano binabago ng financial struggle ang connection nating dalawa?", "question_english": "How does financial struggle alter our connection?", "quote_tagalog": "Magtulungan tayo kahit mahirap buhay.", "quote_english": "Let's help each other out despite a hard life." },
+  { "id": 38, "question_tagalog": "Naniniwala ka ba na time heals, or love heals everything?", "question_english": "Do you believe time heals, or love heals everything?", "quote_tagalog": "Pinapagaling ako ng mismong presence mo.", "quote_english": "Your presence itself heals me." },
+  { "id": 39, "question_tagalog": "Pano mo ituturo sakin pano maging matapang when facing my fears?", "question_english": "How will you teach me to be brave when facing my fears?", "quote_tagalog": "Andito ko sa likod mo as your shield.", "quote_english": "I am right behind you as your shield." },
+  { "id": 40, "question_tagalog": "Ano ang the most painful truth na natutunan mo about yourself ever since we met?", "question_english": "What is the most painful truth you learned about yourself ever since we met?", "quote_tagalog": "Na-realize kong kailangan kita.", "quote_english": "I realized I needed you." },
+  { "id": 41, "question_tagalog": "Kung magiging bato tayo parehas para forever na magkatabi, papayag ka?", "question_english": "If we became stones to be next to each other forever, would you agree?", "quote_tagalog": "Kahit anong porma, basta katabi kita.", "quote_english": "Any form, as long as I am beside you." },
+  { "id": 42, "question_tagalog": "Anong word ang gagamitin mo para ilarawan ang pagmamahalan ng ating mga kaluluwa?", "question_english": "What word will you use to describe the love of our souls?", "quote_tagalog": "Tayo ang dalawang kaluluwang naging isa.", "quote_english": "We are two souls that became one." },
+  { "id": 43, "question_tagalog": "Kailan mo naisip na kaya nating tanggapin kahit yung pinakamalalang mali natin?", "question_english": "When did you think we could accept even our worst mistakes?", "quote_tagalog": "Naiintindihan at papatawarin palagi kita.", "quote_english": "I will always understand and forgive you." },
+  { "id": 44, "question_tagalog": "Saan natin nakukuha yung patience na 'to for each other despite everything?", "question_english": "Where do we get this patience for each other despite everything?", "quote_tagalog": "Mahaba pasensya ko basta nagmamahal ako sayo.", "quote_english": "My patience is long as long as I love you." },
+  { "id": 45, "question_tagalog": "Pano mo ina-assess kung lumalaki na tayo apart or mas napapalapit?", "question_english": "How do you assess if we are growing apart or closer?", "quote_tagalog": "Nararamdaman ko pag-ibig mo lalong higit.", "quote_english": "I feel your love even greater." },
+  { "id": 46, "question_tagalog": "Sino satin dalawa ang mas capable mag-endure ng pain in silence?", "question_english": "Who between the two of us is more capable of enduring pain in silence?", "quote_tagalog": "Wag mong kayanin mag-isa ang sakit.", "quote_english": "Don't bear the pain alone." },
+  { "id": 47, "question_tagalog": "Tingin mo ba ang love is a choice na ginagawa natin araw-araw?", "question_english": "Do you think love is a choice we make every single day?", "quote_tagalog": "Araw-araw kitang pipiliin nang paulit-ulit.", "quote_english": "I will repeatedly choose you every single day." },
+  { "id": 48, "question_tagalog": "Kung magkaproblema tayo na sobrang lala, kailan tayo bibitaw?", "question_english": "If we encounter a super severe problem, when will we let go?", "quote_tagalog": "Hinding-hindi tayo susuko sa atin.", "quote_english": "We will never give up on us." },
+  { "id": 49, "question_tagalog": "Pano natin matutulungan yung isa't isa na makita value nila on bad days?", "question_english": "How can we help each other see their value on bad days?", "quote_tagalog": "Sobrang worth it mo nang mabuhay.", "quote_english": "You are so worth living for." },
+  { "id": 50, "question_tagalog": "May moments bang gusto mong iiyak na lang lahat lahat sakin?", "question_english": "Are there moments you just want to cry everything out to me?", "quote_tagalog": "Dito sa balikat ko, iiyak mo lahat.", "quote_english": "Cry it all out here on my shoulder." },
+  { "id": 51, "question_tagalog": "Ano yung fears mo nung umpisa na ngayon thankful ka nawala na?", "question_english": "What fears did you have at first that you're now thankful are gone?", "quote_tagalog": "Dahil sayo hindi nako natatakot.", "quote_english": "Because of you, I'm no longer afraid." },
+  { "id": 52, "question_tagalog": "Naniniwala ka ba na the truest love is unconditional?", "question_english": "Do you believe that the truest love is unconditional?", "quote_tagalog": "Wala nang kundisyon pagmamahal ko sayo.", "quote_english": "My love for you has no conditions." },
+  { "id": 53, "question_tagalog": "Ano ang unang magiging panalangin mo pag nawala na ko?", "question_english": "What will be your first prayer when I am gone?", "quote_tagalog": "Protektahan sana kaluluwa mo kahit saan.", "quote_english": "May your soul be protected wherever." },
+  { "id": 54, "question_tagalog": "Bakit nahihirapan ang iba tanggapin yung mali pero tayo nagagawa natin?", "question_english": "Why do others struggle to accept mistakes while we manage to do it?", "quote_tagalog": "Pang-unawa nati'y abot langit.", "quote_english": "Our understanding reaches the heavens." },
+  { "id": 55, "question_tagalog": "Pano mo pinapaalala sa sarili mo that I am worth the fight?", "question_english": "How do you remind yourself that I am worth the fight?", "quote_tagalog": "Mawala na lahat, wag lang ikaw.", "quote_english": "Let everything be gone, just not you." },
+  { "id": 56, "question_tagalog": "Pag napanaginipan mong umalis ako, pano ka gumising?", "question_english": "When you dream of me leaving, how do you wake up?", "quote_tagalog": "Yayakapin agad kita pag gising ko.", "quote_english": "I'll immediately hug you upon waking." },
+  { "id": 57, "question_tagalog": "Sino sa buhay mo yung feeling mo hindi magiging proud na napunta ka sakin or proud ba sila?", "question_english": "Who in your life do you feel wouldn't be proud you ended up with me or are they proud?", "quote_tagalog": "Sobra akong proud na asawa mo ko.", "quote_english": "I'm extremely proud that I'm your spouse." },
+  { "id": 58, "question_tagalog": "May deepest pain ba mula sa past mo na nahihirapan pa rin ako akayin out of you?", "question_english": "Is there a deepest pain from your past I'm still struggling to pull you out of?", "quote_tagalog": "Akay-akay kita kahit ang hirap.", "quote_english": "I'll carry you even if it's hard." },
+  { "id": 59, "question_tagalog": "Anong trait ko na parang nakuha mo na deep inside?", "question_english": "What trait of mine feels like you've adopted deep inside?", "quote_tagalog": "Naging kamuka at kaugali na kita.", "quote_english": "We've started to look and act alike." },
+  { "id": 60, "question_tagalog": "Pano mo ide-describe yung bond natin na hindi nakikita pero nararamdaman?", "question_english": "How do you describe our bond that isn't seen but felt?", "quote_tagalog": "Wala nang ibang makakaalam, tayo lang.", "quote_english": "No one else will figure it out, just us." }
 ]
