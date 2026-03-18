@@ -48,7 +48,7 @@ export default function EditionSelector({ selectedEdition, onSelectEdition, dark
             exit={{ opacity: 0, y: -10, scale: 0.95 }}
             transition={{ duration: 0.2 }}
             className={`
-              absolute top-full mt-2 left-0 sm:left-auto sm:right-0 w-48 rounded-2xl shadow-xl overflow-hidden z-50
+              absolute top-full mt-2 left-0 sm:left-auto sm:right-0 w-48 max-h-60 overflow-y-auto rounded-2xl shadow-xl z-50 no-scrollbar
               ${darkMode ? 'bg-warm-900 border border-warm-700' : 'bg-white border border-beige-200'}
             `}
           >
