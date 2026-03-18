@@ -9,21 +9,21 @@ import conflictData from './conflict.json';
 import appreciationData from './appreciation.json';
 import attachmentData from './attachment.json';
 import late_nightData from './late_night.json';
-import toxic_healthyData from './toxic_healthy.json';
+import toxicData from './toxic.json';
 import soft_babyData from './soft_baby.json';
 import truth_bombData from './truth_bomb.json';
 import reassuranceData from './reassurance.json';
 import compatibilityData from './compatibility.json';
-import what_ifData from './what_if.json';
+import what_ifData from './what_if_scenario.json';
 import first_loveData from './first_love.json';
 import overthinkingData from './overthinking.json';
-import intimacyData from './intimacy.json';
+import intimacyData from './emotional_intimacy.json';
 import self_reflectionData from './self_reflection.json';
-import past_exesData from './past_exes.json';
-import money_lifeData from './money_life.json';
+import past_exesData from './past_and_exes.json';
+import money_lifeData from './money_and_life.json';
 import mood_swingsData from './mood_swings.json';
 import after_darkData from './after_dark.json';
-import effort_gestureData from './effort_gesture.json';
+import effort_gestureData from './effort_and_gesture.json';
 
 // Exported dynamically generated combinations
 export const editions = {
@@ -38,7 +38,7 @@ export const editions = {
   appreciation: { id: 'appreciation', name: 'Appreciation Edition', data: appreciationData },
   attachment: { id: 'attachment', name: 'Attachment Style Edition', data: attachmentData },
   late_night: { id: 'late_night', name: 'Late Night Talks Edition', data: late_nightData },
-  toxic_healthy: { id: 'toxic_healthy', name: 'Toxic vs Healthy Edition', data: toxic_healthyData },
+  toxic: { id: 'toxic', name: 'Toxic vs Healthy Edition', data: toxicData },
   soft_baby: { id: 'soft_baby', name: 'Soft & Baby Talk Edition', data: soft_babyData },
   truth_bomb: { id: 'truth_bomb', name: 'Truth Bomb Edition', data: truth_bombData },
   reassurance: { id: 'reassurance', name: 'Reassurance Edition', data: reassuranceData },

@@ -1,142 +1,62 @@
 [
-  {
-    "id": 1,
-    "question_tagalog": "Healing Edition Tagalog Question 1",
-    "question_english": "Healing Edition English Question 1",
-    "quote_tagalog": "Tagalog Quote 1",
-    "quote_english": "English Quote 1"
-  },
-  {
-    "id": 2,
-    "question_tagalog": "Healing Edition Tagalog Question 2",
-    "question_english": "Healing Edition English Question 2",
-    "quote_tagalog": "Tagalog Quote 2",
-    "quote_english": "English Quote 2"
-  },
-  {
-    "id": 3,
-    "question_tagalog": "Healing Edition Tagalog Question 3",
-    "question_english": "Healing Edition English Question 3",
-    "quote_tagalog": "Tagalog Quote 3",
-    "quote_english": "English Quote 3"
-  },
-  {
-    "id": 4,
-    "question_tagalog": "Healing Edition Tagalog Question 4",
-    "question_english": "Healing Edition English Question 4",
-    "quote_tagalog": "Tagalog Quote 4",
-    "quote_english": "English Quote 4"
-  },
-  {
-    "id": 5,
-    "question_tagalog": "Healing Edition Tagalog Question 5",
-    "question_english": "Healing Edition English Question 5",
-    "quote_tagalog": "Tagalog Quote 5",
-    "quote_english": "English Quote 5"
-  },
-  {
-    "id": 6,
-    "question_tagalog": "Healing Edition Tagalog Question 6",
-    "question_english": "Healing Edition English Question 6",
-    "quote_tagalog": "Tagalog Quote 6",
-    "quote_english": "English Quote 6"
-  },
-  {
-    "id": 7,
-    "question_tagalog": "Healing Edition Tagalog Question 7",
-    "question_english": "Healing Edition English Question 7",
-    "quote_tagalog": "Tagalog Quote 7",
-    "quote_english": "English Quote 7"
-  },
-  {
-    "id": 8,
-    "question_tagalog": "Healing Edition Tagalog Question 8",
-    "question_english": "Healing Edition English Question 8",
-    "quote_tagalog": "Tagalog Quote 8",
-    "quote_english": "English Quote 8"
-  },
-  {
-    "id": 9,
-    "question_tagalog": "Healing Edition Tagalog Question 9",
-    "question_english": "Healing Edition English Question 9",
-    "quote_tagalog": "Tagalog Quote 9",
-    "quote_english": "English Quote 9"
-  },
-  {
-    "id": 10,
-    "question_tagalog": "Healing Edition Tagalog Question 10",
-    "question_english": "Healing Edition English Question 10",
-    "quote_tagalog": "Tagalog Quote 10",
-    "quote_english": "English Quote 10"
-  },
-  {
-    "id": 11,
-    "question_tagalog": "Healing Edition Tagalog Question 11",
-    "question_english": "Healing Edition English Question 11",
-    "quote_tagalog": "Tagalog Quote 11",
-    "quote_english": "English Quote 11"
-  },
-  {
-    "id": 12,
-    "question_tagalog": "Healing Edition Tagalog Question 12",
-    "question_english": "Healing Edition English Question 12",
-    "quote_tagalog": "Tagalog Quote 12",
-    "quote_english": "English Quote 12"
-  },
-  {
-    "id": 13,
-    "question_tagalog": "Healing Edition Tagalog Question 13",
-    "question_english": "Healing Edition English Question 13",
-    "quote_tagalog": "Tagalog Quote 13",
-    "quote_english": "English Quote 13"
-  },
-  {
-    "id": 14,
-    "question_tagalog": "Healing Edition Tagalog Question 14",
-    "question_english": "Healing Edition English Question 14",
-    "quote_tagalog": "Tagalog Quote 14",
-    "quote_english": "English Quote 14"
-  },
-  {
-    "id": 15,
-    "question_tagalog": "Healing Edition Tagalog Question 15",
-    "question_english": "Healing Edition English Question 15",
-    "quote_tagalog": "Tagalog Quote 15",
-    "quote_english": "English Quote 15"
-  },
-  {
-    "id": 16,
-    "question_tagalog": "Healing Edition Tagalog Question 16",
-    "question_english": "Healing Edition English Question 16",
-    "quote_tagalog": "Tagalog Quote 16",
-    "quote_english": "English Quote 16"
-  },
-  {
-    "id": 17,
-    "question_tagalog": "Healing Edition Tagalog Question 17",
-    "question_english": "Healing Edition English Question 17",
-    "quote_tagalog": "Tagalog Quote 17",
-    "quote_english": "English Quote 17"
-  },
-  {
-    "id": 18,
-    "question_tagalog": "Healing Edition Tagalog Question 18",
-    "question_english": "Healing Edition English Question 18",
-    "quote_tagalog": "Tagalog Quote 18",
-    "quote_english": "English Quote 18"
-  },
-  {
-    "id": 19,
-    "question_tagalog": "Healing Edition Tagalog Question 19",
-    "question_english": "Healing Edition English Question 19",
-    "quote_tagalog": "Tagalog Quote 19",
-    "quote_english": "English Quote 19"
-  },
-  {
-    "id": 20,
-    "question_tagalog": "Healing Edition Tagalog Question 20",
-    "question_english": "Healing Edition English Question 20",
-    "quote_tagalog": "Tagalog Quote 20",
-    "quote_english": "English Quote 20"
-  }
+  { "id": 1, "question_tagalog": "Anong part ng nakaraan mo ang feeling mo kailangan mo pang i-heal?", "question_english": "What part of your past do you feel you still need to heal from?", "quote_tagalog": "Hindi minamadali ang paghihilom.", "quote_english": "Healing is not rushed." },
+  { "id": 2, "question_tagalog": "Paano kita matutulungan kapag naaalala mo yung mga pain mo dati?", "question_english": "How can I help you when you remember your past pains?", "quote_tagalog": "Nandito ako, hindi ka na mag-iisa.", "quote_english": "I'm here, you're no longer alone." },
+  { "id": 3, "question_tagalog": "Ano yung bigat sa puso mo na gusto mo nang bitawan ngayon?", "question_english": "What heaviness in your heart do you want to let go of now?", "quote_tagalog": "Ilabas mo lang, sasaluhin kita.", "quote_english": "Just let it out, I will catch you." },
+  { "id": 4, "question_tagalog": "May trauma ka ba sa past relationships mo na naiintindihan ko na ngayon?", "question_english": "Do you have trauma from past relationships that I understand now?", "quote_tagalog": "Ibang iba ang pagmamahal na ito.", "quote_english": "This love is completely different." },
+  { "id": 5, "question_tagalog": "Paano mo narealize na safe ka nang maging vulnerable sakin?", "question_english": "How did you realize you are safe to be vulnerable with me?", "quote_tagalog": "Sa yakap mo natapos ang pagiging matapang ko.", "quote_english": "In your embrace, my pretending to be brave ended." },
+  { "id": 6, "question_tagalog": "Kailan mo naramdaman na dahan-dahan ka nang nag-heheal?", "question_english": "When did you feel that you were slowly healing?", "quote_tagalog": "Araw-araw kitang pipiliin kahit mahirap.", "quote_english": "I will choose you everyday even if it's hard." },
+  { "id": 7, "question_tagalog": "Ano yung dating triggering sayo pero ngayon kaya mo nang pag-usapan?", "question_english": "What used to be triggering to you but now you can talk about?", "quote_tagalog": "Oras ang kasagutan sa lahat ng sakit.", "quote_english": "Time is the answer to all pain." },
+  { "id": 8, "question_tagalog": "Paano natin maiiwasang ma-project yung past traumas natin sa isa't isa?", "question_english": "How do we avoid projecting our past traumas onto each other?", "quote_tagalog": "Mag-uusap kahit mahirap.", "quote_english": "We will talk even if it's hard." },
+  { "id": 9, "question_tagalog": "Ano yung words of affirmation na laging nagpapagaan ng pakiramdam mo?", "question_english": "What words of affirmation always make you feel better?", "quote_tagalog": "Sapat ka at mahal kita kung sino ka.", "quote_english": "You are enough and I love you for who you are." },
+  { "id": 10, "question_tagalog": "May time ba na naisip mong baka saktan din kita tulad nila?", "question_english": "Was there a time you thought I'd hurt you like they did?", "quote_tagalog": "Patutunayan kong mali ang pangamba mo.", "quote_english": "I will prove your fears wrong." },
+  { "id": 11, "question_tagalog": "Ano yung natutunan mo sa sarili mo habang nag-heheal ka kasama ko?", "question_english": "What did you learn about yourself while healing with me?", "quote_tagalog": "Matapang ka pero pwede kang magpahinga sakin.", "quote_tagalog": "You are brave but you can rest with me." },
+  { "id": 12, "question_tagalog": "Anong maliit na bagay ang ginawa ko na nakatulong sa healing mo?", "question_english": "What small thing did I do that helped your healing?", "quote_tagalog": "Pakinggan ka nang walang pag-question.", "quote_english": "To listen to you without questioning." },
+  { "id": 13, "question_tagalog": "Saan ka pinaka nahihirapan mag-forgive, sa sarili mo o sa iba?", "question_english": "Where is it hardest to forgive, yourself or others?", "quote_tagalog": "Patawarin mo muna ang sarili mo, mahal.", "quote_english": "Forgive yourself first, love." },
+  { "id": 14, "question_tagalog": "Anong nakasanayan mong coping mechanism na gusto mong baguhin natin?", "question_english": "What coping mechanism are you used to that you want us to change?", "quote_tagalog": "Wag ka nang magkimkim, andito na ako.", "quote_english": "Don't bottle it up anymore, I am here." },
+  { "id": 15, "question_tagalog": "Ano yung promise natin sa isa't isa para masiguro yung mental at emotional peace natin?", "question_english": "What's our promise to ensure our mental and emotional peace?", "quote_tagalog": "Walang matutulog nang may galit.", "quote_english": "No one will sleep angry." },
+  { "id": 16, "question_tagalog": "Sa anong way ko nai-invalidate ang feelings mo nang hindi ko alam?", "question_english": "In what way do I invalidate your feelings without knowing?", "quote_tagalog": "Sabihin mo, aayusin ko.", "quote_english": "Tell me, I will fix it." },
+  { "id": 17, "question_tagalog": "Anong sitwasyon yung pakiramdam mo ay mag-isa ka pero nandun ako?", "question_english": "What situation did you feel alone but I was there?", "quote_tagalog": "Bulag ang kalungkutan, pero nandito ang kamay ko.", "quote_english": "Sadness is blind, but my hand is here." },
+  { "id": 18, "question_tagalog": "Ano ang definition mo ng 'safe space' bago ako dumating, at ngayon?", "question_english": "What was your definition of 'safe space' before me, and now?", "quote_tagalog": "Ako ang magiging kanlungan mo sa bagyo.", "quote_english": "I will be your refuge in the storm." },
+  { "id": 19, "question_tagalog": "Kailan mo gustong yakapin lang kita nang mahigpit at walang sinasabi?", "question_english": "When do you just want me to hug you tightly without saying anything?", "quote_tagalog": "Sa yakap ko madidinig ang lahat ng gusto mong malaman.", "quote_english": "In my embrace you will hear everything you want to know." },
+  { "id": 20, "question_tagalog": "Ano yung insecurity mo na nararamdaman mo parin hanggang ngayon?", "question_english": "What insecurity do you still feel until today?", "quote_tagalog": "Perpekto ka sa paningin ko, tandaan mo iyan.", "quote_english": "You are perfect in my eyes, remember that." },
+  { "id": 21, "question_tagalog": "Sino o ano yung madalas mong kinukumpara sa relationship natin dahil sa trauma?", "question_english": "Who or what do you often compare our relationship to because of trauma?", "quote_tagalog": "Tayo'y gumagawa ng sariling kwento.", "quote_english": "We are making our own story." },
+  { "id": 22, "question_tagalog": "Ano yung fears mo pagdating sa abandonment na pwede kong pakalmahin?", "question_english": "What are your fears of abandonment that I can calm?", "quote_tagalog": "Hindi ako aalis kapag mahirap na.", "quote_english": "I will not leave when it gets hard." },
+  { "id": 23, "question_tagalog": "May times ba na you push me away to protect yourself?", "question_english": "Are there times you push me away to protect yourself?", "quote_tagalog": "Kahit tabuyin mo ko, hindi kita iiwanan naiyak.", "quote_english": "Even if you push me away, I won't leave you crying." },
+  { "id": 24, "question_tagalog": "Pano ko ma-ssupport best ang healing process mo sa mga susunod na araw?", "question_english": "How can I best support your healing process in the coming days?", "quote_tagalog": "Asahan mo ang walang sawang pang-unawa.", "quote_english": "Expect endless understanding." },
+  { "id": 25, "question_tagalog": "Anong parte ng pagmamahal ko sa'yo ang hindi mo inasahang ganun kakailangan mo?", "question_english": "What part of my love for you did you not expect you'd need so much?", "quote_tagalog": "Ang pasensya at araw araw na pagpili.", "quote_english": "Patience and choosing you every day." },
+  { "id": 26, "question_tagalog": "Nabigyan ba kita ng space para masaktan at hindi maging 'okay' lang lagi?", "question_english": "Did I give you space to hurt and not just be 'okay' always?", "quote_tagalog": "Ayos lang hindi maging ayos, andito lang ako.", "quote_english": "It's okay not to be okay, I'm just here." },
+  { "id": 27, "question_tagalog": "Ano ang natuklasan mo sa strength mo nung dumaan tayo sa mabigat na problema?", "question_english": "What did you discover about your strength when we went through a big problem?", "quote_tagalog": "Matatag tayo higit pa sa inaakala natin.", "quote_english": "We are stronger than we thought." },
+  { "id": 28, "question_tagalog": "Kanino ka unang nag-oopen up pag nagkakaroon ka ng emotional breakdown?", "question_english": "Who do you first open up to when you have an emotional breakdown?", "quote_tagalog": "Sana ako ang unang sumasagi sa isip mo.", "quote_english": "I hope I am the first one on your mind." },
+  { "id": 29, "question_tagalog": "Sa papaanong paraan mo ako gustong magtanong kapag nakikita kitang tahimik?", "question_english": "In what way do you want me to ask when I see you quiet?", "quote_tagalog": "Malumanay at puno ng lambing.", "quote_english": "Soft and full of affection." },
+  { "id": 30, "question_tagalog": "Naiisip mo ba kung gano kalaki in-improve natin communicating our boundaries?", "question_english": "Do you realize how much we improved communicating our boundaries?", "quote_tagalog": "Respeto ang pundasyon ng tunay na pagmamahal.", "quote_english": "Respect is the foundation of true love." },
+  { "id": 31, "question_tagalog": "Anong words ko ang paulit-ulit mong binabalikan pangpalakas ng loob?", "question_english": "What words of mine do you repeatedly go back to for encouragement?", "quote_tagalog": "Andito ako, hindi ka mag iisa.", "quote_english": "I am here, you won't be alone." },
+  { "id": 32, "question_tagalog": "Nahihirapan ka pa ba magtiwala ulit matapos kang lokohin o iwan dati?", "question_english": "Is it still hard for you to trust again after being cheated on or left before?", "quote_tagalog": "Iibahin natin ang ending mo ngayon.", "quote_english": "We will change your ending now." },
+  { "id": 33, "question_tagalog": "Kung pwede mong yakapin ang sarili mo noon, anong sasabihin mong promise natin ngayon?", "question_english": "If you could hug your past self, what promise of ours would you tell?", "quote_tagalog": "Matatapos din ang lahat ng kirot, darating din siya.", "quote_english": "All the pain will end, he will come." },
+  { "id": 34, "question_tagalog": "Nakaramdam ka na ba na pinabilis ko proseso ng pag e-explain mo ng emotions mo?", "question_english": "Have you felt I rushed the process of you explaining your emotions?", "quote_tagalog": "Maghihintay ako hanggang handa ka nang magsalita.", "quote_english": "I will wait until you're ready to speak." },
+  { "id": 35, "question_tagalog": "Bakit importanteng sa ating dalawa maging transparent pag dating sa personal healing?", "question_english": "Why is it important for us to be transparent when it comes to personal healing?", "quote_tagalog": "Isa tayong team sa buhay na ito.", "quote_english": "We are a team in this life." },
+  { "id": 36, "question_tagalog": "Na fifeel mo ba yung acceptance ko kahit sa darkest parts mo?", "question_english": "Do you feel my acceptance even in your darkest parts?", "quote_tagalog": "Liliwanagan natin kahit ang pinakamadilim.", "quote_english": "We will light up even the darkest." },
+  { "id": 37, "question_tagalog": "Gaano ako kadalas mag apologize successfully nang nararamdaman mo ang sincerity?", "question_english": "How often do I successfully apologize where you feel the sincerity?", "quote_tagalog": "Ang tunay na sorry nararamdaman at nakikita sa gawa.", "quote_english": "A true sorry is felt and seen in actions." },
+  { "id": 38, "question_tagalog": "Tuwing tinotopak o nago-overthink ka, ano ba talaga ang pinaka hinihingi ng heart mo?", "question_english": "Whenever you throw tantrums or overthink, what is your heart really asking for?", "quote_tagalog": "Reassurance lang, at uulitin ko ulit.", "quote_english": "Just reassurance, and I will repeat it again." },
+  { "id": 39, "question_tagalog": "Meron ka bang habit ngayon na reflection ng takot mo maitapon at makalimutan?", "question_english": "Do you have a habit now that reflects your fear of being thrown away and forgotten?", "quote_tagalog": "Mamahalin kita hanggang wala na akong hininga.", "quote_english": "I will love you until I have no breath." },
+  { "id": 40, "question_tagalog": "May nasabi ba ako noon during fights na naging mitsa ng panibagong sugat sayo?", "question_english": "Have I said anything before during fights that sparked a new wound in you?", "quote_tagalog": "Wag na nating uulitin ang maling nagawa.", "quote_english": "Let's not repeat the wrongs we've done." },
+  { "id": 41, "question_tagalog": "Naiisip mo ba kung gano mo ako natulungan in my own healing journey din?", "question_english": "Do you think about how you helped me in my own healing journey too?", "quote_tagalog": "Nagpagalingan tayong dalawa ng di sinasadya.", "quote_english": "We accidentally healed each other." },
+  { "id": 42, "question_tagalog": "Bakit kaya mas lalong naging strong yung bond natin after nating makayanan ang lowest point natin?", "question_english": "Why do you think our bond got stronger after surviving our lowest point?", "quote_tagalog": "Dahil nakita natin ang pinakamasama, ngunit pinili ang isa't isa.", "quote_english": "Because we saw the worst, but chose each other." },
+  { "id": 43, "question_tagalog": "Paano tayo mag cecelebrate kapag natapos na totally ang isang healing phase ng isa sa atin?", "question_english": "How do we celebrate when a healing phase of one of us totally ends?", "quote_tagalog": "Sa bagong yugto ay purong kapayapaan.", "quote_english": "In the new chapter is pure peace." },
+  { "id": 44, "question_tagalog": "Tuwing nakikita mong ok na ok ka na, anong first thought mo tungkol sakin?", "question_english": "When you see you're totally okay now, what's your first thought about me?", "quote_tagalog": "Maraming salamat sa matiyagang pag-ibig mo.", "quote_english": "Thank you so much for your patient love." },
+  { "id": 45, "question_tagalog": "May words ba akong nagagamit na di sinasadyang nagpapa - trigger ng abandonment issues mo?", "question_english": "Are there words I use that accidentally trigger your abandonment issues?", "quote_tagalog": "Aayusin ang salita, para sa laging ikatatahimik mo.", "quote_english": "Will fix the words, always for your peace." },
+  { "id": 46, "question_tagalog": "Saang aspect mo feel na pinaka nakatulong yung presensya ko sayo nung lugmok ka?", "question_english": "In which aspect do you feel my presence helped you most when you were down?", "quote_tagalog": "Presensya lang ay lunas na sa kalungkutan.", "quote_english": "Presence alone is already a cure for sadness." },
+  { "id": 47, "question_tagalog": "Pwede mo ba i-describe yung feeling ng unti-unting lumalaya sa bigat ng nakaraan dahil satin?", "question_english": "Can you describe the feeling of slowly being free from the heaviness of the past because of us?", "quote_tagalog": "Nakakahinga na ako ng maluwag katabi mo.", "quote_english": "I can breathe easily beside you." },
+  { "id": 48, "question_tagalog": "Nakatulong ba yung way ko of asking things sayo para slowly maging okay ka?", "question_english": "Did my way of asking things help you slowly become okay?", "quote_tagalog": "Hindi ka minamadali, maghihintay ako lagi.", "quote_english": "You're not rushed, I will always wait." },
+  { "id": 49, "question_tagalog": "Kung bibigyan kita ng comfort sa paraang alam mong the best, pano ko siya gagawin?", "question_english": "If I give you comfort in the best way you know, how will I do it?", "quote_tagalog": "Ikaw lang nakakalam paano ako masuyong kalmahin.", "quote_english": "Only you know how to sweetly calm me." },
+  { "id": 50, "question_tagalog": "Sa anong klaseng pamamaraan tayo pwede maging better in checking each other's mental state?", "question_english": "In what way can we be better in checking each other's mental state?", "quote_tagalog": "Laging uunahin ang kalusugan ng isip nating dalawa.", "quote_english": "Will always prioritize the mental health of us both." },
+  { "id": 51, "question_tagalog": "Naiiyak ka parin ba minsan kapag naaalala mo panong ginamot ko yung trauma mo?", "question_english": "Do you still cry sometimes when you remember how I treated your trauma?", "quote_tagalog": "Wala nang sakit, ikaw ang aking lunas.", "quote_english": "No more pain, you are my cure." },
+  { "id": 52, "question_tagalog": "Anong trait ko ang the complete opposite ng nanakit sayo dati?", "question_english": "What trait of mine is the complete opposite of who hurt you before?", "quote_tagalog": "Ibang iba ang mundo ko sayo.", "quote_english": "My world with you is completely different." },
+  { "id": 53, "question_tagalog": "Saan mas mahirap para satin, ang mag-forgive ba o ang kalimutan nalang?", "question_english": "Where is it harder for us, to forgive or to just forget?", "quote_tagalog": "Pagpapatawad ay magpapalaya satin.", "quote_english": "Forgiveness will free us." },
+  { "id": 54, "question_tagalog": "Anong pakiramdam tuwing napapag-usapan na natin as clear and calm as daylight ang dating iniiyakan mo?", "question_english": "How does it feel when we can calmly talk about what you used to cry over?", "quote_tagalog": "Kinaya natin lahat, ikaw at ako.", "quote_english": "We overcame it all, you and I." },
+  { "id": 55, "question_tagalog": "Napapaisip ka ba na paano kaya kung sa past natin nakilala ang isa't isa?", "question_english": "Do you wonder what if we met each other in the past?", "quote_tagalog": "Dumating ka sa pinakatamang oras.", "quote_english": "You arrived at the perfect time." },
+  { "id": 56, "question_tagalog": "Pano mo inaakbayan sarili mong thoughts ngayon na hindi mo magawa nuon?", "question_english": "How do you handle your own thoughts now that you couldn't do before?", "quote_tagalog": "Mas malakas ka na, natuto ka na rin.", "quote_english": "You are stronger now, you also learned." },
+  { "id": 57, "question_tagalog": "Tuwing pinagdududahan mo love ko dahil sa luma mong trauma, pano kita na rere-ground sa reality?", "question_english": "Whenever you doubt my love due to old trauma, how do I ground you to reality?", "quote_tagalog": "Ang katotohanan ay pilit kitang mamahalin nang wagas.", "quote_english": "The truth is I will tirelessly love you endlessly." },
+  { "id": 58, "question_tagalog": "Sa paanong paraan tayo nagbago compared kung pano tayo noon bago mag simula ang tunay na healing?", "question_english": "In what way did we change compared to how we were before real healing started?", "quote_tagalog": "Lahat ng binabago para sa ikabubuti natin.", "quote_english": "All changes are for our own good." },
+  { "id": 59, "question_tagalog": "Tingin mo as of now asahan parin that there is always something unhealed in a person despite moving on?", "question_english": "Do you think as of now it's expected that there's always something unhealed despite moving on?", "quote_tagalog": "Kahit ano pa man yan, andito ako para payapain yan.", "quote_english": "Whatever that is, I'm here to calm it." },
+  { "id": 60, "question_tagalog": "Anong word ang pwede mong idikit sa healing journey natin together bilang couples?", "question_english": "What word can you attach to our healing journey together as couples?", "quote_tagalog": "Wakas ng sakit at panimula ng bukas.", "quote_english": "End of pain and start of tomorrow." }
 ]
